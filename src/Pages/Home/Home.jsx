@@ -1,6 +1,3 @@
-// // import axios from "axios";
-import { useState, useEffect } from "react";
-
 import S from "./Home.module.scss";
 import videoBG from "../../assets/videos/teste1.mp4";
 import logoDenver from "../../assets/img/denverLogo.png";
