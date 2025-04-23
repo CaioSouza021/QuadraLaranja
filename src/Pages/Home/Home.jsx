@@ -3,15 +3,15 @@ import { useState, useEffect } from "react";
 
 import S from "./Home.module.scss";
 import videoBG from "../../assets/videos/teste1.mp4";
-import bola from "../../assets/img/BolaDec.jpeg";
+import logoDenver from "../../assets/img/denverLogo.png";
+import logoOkc from "../../assets/img/okcLogo.png";
+import logoSpurs from "../../assets/img/spursLogo.png";
+
+import Victor from "../../assets/img/victor.jpg";
+import Shai from "../../assets/img/shai.jpg";
+import Jokic from "../../assets/img/jokic.jpg";
 
 export default function Home() {
-  const [showVideo, setShowVideo] = useState(false);
-  useEffect(() => {
-    setTimeout(() => {
-      setShowVideo(true);
-    }, 1000);
-  }, []);
   return (
     <>
       <div className={S.BoxVideo}>
@@ -25,57 +25,89 @@ export default function Home() {
             <div>
               <h3>Tudo sobre o mundo do basquete</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias,
-                similique possimus totam inventore eum quaerat eligendi expedita
-                sint, repellendus sed voluptatum culpa maiores qui corrupti
-                dolore exercitationem necessitatibus aut temporibus!{" "}
+                Curte basquete? Aqui é o lugar certo! A gente fala de NBA,
+                mostra os times, jogadores que tão voando e curiosidades do
+                jogo. Tudo isso num só lugar, feito pra quem respira basquete de
+                verdade.
               </p>
               <a className={S.botaoLink} href="#">
-                Saiba Mais
+                Sobre Nós
               </a>
             </div>
           </section>
         </div>
-        <section className={S.boxSobre}>
+
+        <section className={S.boxAtletas}>
           <h2 className={S.titulo}>
-            <span>Sobre</span> Nós
+            Atletas em <span>destaque</span>
           </h2>
-          <div className={S.boxDescricao}>
-            <div className={S.sobreImagem}>
-              <img src={bola} alt="" />
+
+          <div className={S.boxInfo}>
+            {/*flip  */}
+
+            <ul>
+              <li>
+                <div className={S.container}>
+                  <div className={S.flip}>
+                    <div className={S.frente}>
+                      <img className={S.PlayerFlip} src={Jokic} alt="" />
+                    </div>
+                    <div className={S.tras}>
+                      <div className={S.boxLogo}>
+                        <img className={S.Logo} src={logoDenver} alt="" />
+                      </div>
+                      <p>jokic</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div className={S.container}>
+                  <div className={S.flip}>
+                    <div className={S.frente}>
+                      <img className={S.PlayerFlip} src={Shai} alt="" />
+                    </div>
+                    <div className={S.tras}>
+                      <div className={S.boxLogo}>
+                        <img className={S.Logo} src={logoOkc} alt="" />
+                      </div>
+                      <p>Shai</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div className={S.container}>
+                  <div className={S.flip}>
+                    <div className={S.frente}>
+                      <img className={S.PlayerFlip} src={Victor} alt="" />
+                    </div>
+                    <div className={S.tras}>
+                      <div className={S.boxLogo}>
+                        <img className={S.Logo} src={logoSpurs} alt="" />
+                      </div>
+                      <p>Victor</p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+
+            <div className={S.boxDescri}>
+              <p>
+                A seção <strong>Destaques da Temporada</strong> destaca os
+                jogadores que mais vêm se sobressaindo na NBA 2024–2025. Com
+                estatísticas impressionantes e atuações decisivas, atletas como
+                Shai Gilgeous-Alexander, Nikola Jokić e Victor Wembanyama
+                mostram por que estão entre os principais nomes da liga. O
+                objetivo é valorizar esses talentos e manter os fãs por dentro
+                dos grandes momentos da temporada.
+              </p>
             </div>
-            <div className={S.sobreTexto}>
-              <h3>O que faz de especial?</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-                sapiente repellendus aliquam ex minus recusandae reiciendis
-                cumque unde? Sit, quasi. Facilis quas accusantium maiores
-                accusamus molestiae veritatis odit enim quae.
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                reprehenderit a aperiam impedit! Reiciendis saepe molestiae eius
-                adipisci animi obcaecati consequatur ducimus consequuntur ipsa,
-                aliquid molestias voluptatibus fuga officiis aut.
-              </p>
+            <div className={S.boxBtn}>
               <a className={S.botaoLink} href="#">
-                saiba mais
+                Times
               </a>
             </div>
           </div>
-        </section>
-        <section>
-          <div className={S.modal}>
-            <h3 className={S.titulo}>
-              <span>Quadras</span> pelo RJ
-            </h3>
-            <iframe
-              src="https://www.google.com/maps/d/u/0/embed?mid=1ZhPb3GlIZAAtrojrrIIk3o2YeulwEIc&ehbc=2E312F&noprof=1"
-              width="640"
-              height="480"
-            ></iframe>
-          </div>
-          <div className={S.mascaraModal}></div>
         </section>
       </div>
     </>

@@ -1,6 +1,6 @@
 header {
   width: 100%;
-  height: 120px;
+  height: 110px;
   position: fixed;
   top: 0;
   z-index: 2;
@@ -20,16 +20,24 @@ section .logo {
   height: 95px;
 }
 
+header section {
+  height: 100%;
+  width: 100%;
+}
+
 nav {
-  width: 550px;
+  width: 50%;
   height: 100%;
   display: flex;
-  justify-content: center;
-  align-self: center;
-  gap: 50px;
 }
 
 nav a {
+  width: 50%;
+  display: flex;
+  align-self: center;
+  justify-content: start;
+  font-size: 18px;
+  font-weight: 500;
   color: #fff;
   transition: 0.2s;
 }
@@ -38,4 +46,13 @@ nav a:hover {
   color: orange;
   border-bottom: 0.1rem solid orange;
   padding-bottom: 0.5rem;
+}
+
+nav a i {
+  color: #fff;
+  background-color: black;
+}
+
+header section div img {
+  height: 35px;
 }
