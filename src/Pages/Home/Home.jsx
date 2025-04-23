@@ -6,7 +6,6 @@ import videoBG from "../../assets/videos/teste1.mp4";
 import logoDenver from "../../assets/img/denverLogo.png";
 import logoOkc from "../../assets/img/okcLogo.png";
 import logoSpurs from "../../assets/img/spursLogo.png";
-
 import Victor from "../../assets/img/victor.jpg";
 import Shai from "../../assets/img/shai.jpg";
 import Jokic from "../../assets/img/jokic.jpg";
