@@ -1,10 +1,26 @@
+// ESTILO GERAL
 h1,
 h2,
 h3,
 p {
   color: #fff;
 }
+// ESTILO GERAL DE BOTAO
+.botaoLink {
+  width: 250px;
+  height: 70px;
+  cursor: pointer;
+  background-color: rgb(235, 175, 23);
+  margin-top: 1.4rem;
+  font-size: 1.7rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
 
+// ESTILO DA HOME EM GERAL
 .Home {
   height: 150vh;
   margin: 9.6rem auto;
@@ -15,14 +31,14 @@ p {
   width: 100%;
   height: 100%;
 }
-
+// TAMANHO DO VIDEO OCUPANDO A TELA INTEIRA
 .BoxVideo video {
   min-height: 100%;
   min-width: 100%;
   position: fixed;
   top: 0;
 }
-
+// EFEITO ESFUMAÇADO
 .BoxVideo .mascara {
   height: 100%;
   width: 100%;
@@ -36,6 +52,7 @@ p {
   );
 }
 
+// ESTILO HERO
 .caixaPincipal {
   height: 80vh;
   width: 60vw;
@@ -57,25 +74,14 @@ p {
   width: 45vw;
   line-height: 1.5;
 }
-.botaoLink {
-  width: 250px;
-  height: 70px;
-  cursor: pointer;
-  background-color: rgb(235, 175, 23);
-  margin-top: 1.4rem;
-  font-size: 1.7rem;
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 10px;
-}
 
+// ESTILO ATLETAS
 .boxAtletas {
   height: 100vh;
   display: block;
 }
 
+// TITULO DOS CARDS
 .titulo {
   text-align: center;
   text-transform: uppercase;
@@ -85,6 +91,8 @@ p {
 .titulo span {
   color: orange;
 }
+
+// CAIXA DOS CARDS
 .boxInfo {
   height: 53vh;
   align-items: center;
@@ -98,30 +106,8 @@ p {
   align-items: center;
   justify-content: space-around;
 }
-.boxInfo ul li img {
-  height: 550px;
-  border-radius: 8px;
-}
 
-.boxInfo .boxDescri {
-  background-color: #00000060;
-  width: 100%;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  margin-top: 120px;
-}
-.boxInfo .boxDescri p {
-  width: 65vw;
-  font-size: 1.1rem;
-}
-
-.boxBtn {
-  height: 15vh;
-  width: 92%;
-  display: flex;
-  justify-content: flex-end;
-}
+// ESTILO DO CARD
 
 .boxInfo .container {
   position: relative;
@@ -129,11 +115,10 @@ p {
   height: 500px;
   border-radius: 10px;
 }
-
-.container:hover .flip {
-  transform: rotateY(180deg);
+.boxInfo ul li img {
+  height: 550px;
+  border-radius: 8px;
 }
-
 .container .flip,
 .PlayerFlip {
   position: absolute;
@@ -153,14 +138,15 @@ p {
   box-shadow: 0px, 0px, 10px rgba(0, 0, 0, 0.621);
   backface-visibility: hidden;
 }
-
+// ESTILO NO VERSO DO CARD
 .tras {
   width: 100%;
-  height: 100%;
+  height: 550px;
   background-color: orange;
   transform: rotateY(180deg);
 }
 
+// ESTILO DA CAIXA DA LOGO
 .container .tras .boxLogo {
   width: 100%;
   padding-left: 100px;
@@ -170,10 +156,38 @@ p {
   text-align: center;
 }
 
+// ESTILO DA LOGO
 .tras .Logo {
   height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+// TRANSIÇÃO DO CARD
+.container:hover .flip {
+  transform: rotateY(180deg);
+}
+
+// ESTILO DA DESCRIÇÃO DOS ATLETAS
+.boxInfo .boxDescri {
+  background-color: #00000060;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 120px;
+}
+.boxInfo .boxDescri p {
+  width: 65vw;
+  font-size: 1.1rem;
+}
+
+// ESTILO DO BOTÃO DE ATLETAS
+.boxBtn {
+  height: 15vh;
+  width: 92%;
+  display: flex;
+  justify-content: flex-end;
 }

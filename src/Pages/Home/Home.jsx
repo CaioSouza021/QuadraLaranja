@@ -1,5 +1,5 @@
 import S from "./Home.module.scss";
-import videoBG from "../../assets/videos/teste1.mp4";
+import videoBG from "../../assets/videos/VideoBG.mp4";
 import logoDenver from "../../assets/img/denverLogo.png";
 import logoOkc from "../../assets/img/okcLogo.png";
 import logoSpurs from "../../assets/img/spursLogo.png";
@@ -10,12 +10,15 @@ import Jokic from "../../assets/img/jokic.jpg";
 export default function Home() {
   return (
     <>
+      {/* video de fundo */}
       <div className={S.BoxVideo}>
         <video src={videoBG} loop muted playsInline autoPlay></video>
         <div className={S.mascara}></div>
       </div>
 
+      {/* todo conteudo na pagina Home */}
       <div className={S.Home}>
+        {/* Hero */}
         <div>
           <section className={S.caixaPincipal}>
             <div>
@@ -33,26 +36,35 @@ export default function Home() {
           </section>
         </div>
 
+        {/* Atletas em destaques */}
         <section className={S.boxAtletas}>
           <h2 className={S.titulo}>
             Atletas em <span>destaque</span>
           </h2>
 
           <div className={S.boxInfo}>
-            {/*flip  */}
+            {/*modelo do card flip  */}
 
             <ul>
               <li>
                 <div className={S.container}>
                   <div className={S.flip}>
                     <div className={S.frente}>
-                      <img className={S.PlayerFlip} src={Jokic} alt="" />
+                      <img
+                        className={S.PlayerFlip}
+                        src={Jokic}
+                        alt="Imagem-do-Nikola-Jokić"
+                      />
                     </div>
                     <div className={S.tras}>
                       <div className={S.boxLogo}>
-                        <img className={S.Logo} src={logoDenver} alt="" />
+                        <img
+                          className={S.Logo}
+                          src={logoDenver}
+                          alt="Imagem-do-Escudo-Denver-Nuggets"
+                        />
                       </div>
-                      <p>jokic</p>
+                      <p>Nikola Jokic</p>
                     </div>
                   </div>
                 </div>
@@ -60,13 +72,21 @@ export default function Home() {
                 <div className={S.container}>
                   <div className={S.flip}>
                     <div className={S.frente}>
-                      <img className={S.PlayerFlip} src={Shai} alt="" />
+                      <img
+                        className={S.PlayerFlip}
+                        src={Shai}
+                        alt="Imagem-do-Shai-Gilgeous-Alexander"
+                      />
                     </div>
                     <div className={S.tras}>
                       <div className={S.boxLogo}>
-                        <img className={S.Logo} src={logoOkc} alt="" />
+                        <img
+                          className={S.Logo}
+                          src={logoOkc}
+                          alt="Imagem-do-Escudo-Oklahoma-City-Thunder"
+                        />
                       </div>
-                      <p>Shai</p>
+                      <p>Shai Gilgeous-Alexander</p>
                     </div>
                   </div>
                 </div>
@@ -74,19 +94,28 @@ export default function Home() {
                 <div className={S.container}>
                   <div className={S.flip}>
                     <div className={S.frente}>
-                      <img className={S.PlayerFlip} src={Victor} alt="" />
+                      <img
+                        className={S.PlayerFlip}
+                        src={Victor}
+                        alt="Imagem-do-Victor-Wembanyama"
+                      />
                     </div>
                     <div className={S.tras}>
                       <div className={S.boxLogo}>
-                        <img className={S.Logo} src={logoSpurs} alt="" />
+                        <img
+                          className={S.Logo}
+                          src={logoSpurs}
+                          alt="Imagem-do-Escudo-San-Antonio-Spurs"
+                        />
                       </div>
-                      <p>Victor</p>
+                      <p>Victor Wembanyama</p>
                     </div>
                   </div>
                 </div>
               </li>
             </ul>
 
+            {/* Descrição sobre a parte de Atletas em destaques */}
             <div className={S.boxDescri}>
               <p>
                 A seção <strong>Destaques da Temporada</strong> destaca os
@@ -98,6 +127,7 @@ export default function Home() {
                 dos grandes momentos da temporada.
               </p>
             </div>
+            {/* botao que transfere para a pagina NBA */}
             <div className={S.boxBtn}>
               <a className={S.botaoLink} href="#">
                 Times

@@ -1,7 +1,9 @@
-export default function Quadras() {
+import S from "./Times.module.scss";
+
+export default function Times() {
   return (
     <>
-      <h1>Sou a Quadra</h1>
+      <h1 className={S.teste1}>Sou o times da NBA</h1>
     </>
   );
 }

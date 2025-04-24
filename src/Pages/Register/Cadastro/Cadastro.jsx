@@ -1,7 +1,9 @@
-export default function Quadras() {
+import S from "./Cadastro.module.scss";
+
+export default function Cadastro() {
   return (
     <>
-      <h1>Sou a Quadra</h1>
+      <h1 className={S.teste3}>Sou o cadastro</h1>
     </>
   );
 }

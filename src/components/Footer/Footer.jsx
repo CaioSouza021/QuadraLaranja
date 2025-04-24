@@ -1,6 +1,4 @@
-// import S from "./Home.module.scss";
-// import { useState, useEffect } from "react";
-// import axios from "axios";
+import S from "./Footer.module.scss";
 
 export default function Footer() {
   return <></>;
