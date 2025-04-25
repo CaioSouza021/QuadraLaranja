@@ -126,7 +126,7 @@ p {
   height: 100%;
   cursor: pointer;
   transform-style: preserve-3d;
-  transition: 0.5s;
+  transition: 0.7s;
 }
 .frente,
 .tras,
@@ -154,6 +154,8 @@ p {
   align-items: center;
   justify-content: center;
   text-align: center;
+
+  border-bottom: solid 2px #ffffff42;
 }
 
 // ESTILO DA LOGO
@@ -163,6 +165,46 @@ p {
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+// ESTILO DOS NOMES
+.tras .boxNome {
+  text-align: center;
+  font-size: 23px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+// ESTILO DAS CARACTERISTICAS
+.geralAtleta {
+  height: 310px;
+  display: flex;
+  margin-top: 30px;
+  flex-direction: column;
+  text-align: start;
+}
+.geralAtleta li strong {
+  width: 90px;
+  font-size: 17px;
+}
+
+.geralAtleta p {
+  font-size: 15px;
+  font-weight: 500;
+  width: 198px;
+  text-align: center;
+  font-size: 14px;
+}
+
+// ESTILO DA LOGO DA NBA
+.geralAtleta .BoxNbaCard {
+  border: solid 2px greenyellow;
+}
+
+.BoxNbaCard .nbaCard {
+  height: 30px;
+  margin-top: 8px;
+  padding-left: 135px;
 }
 
 // TRANSIÇÃO DO CARD

@@ -1,5 +1,6 @@
 import S from "./Home.module.scss";
 import videoBG from "../../assets/videos/VideoBG.mp4";
+import Nba from "../../assets/img/nbaLogo.png";
 import logoDenver from "../../assets/img/denverLogo.png";
 import logoOkc from "../../assets/img/okcLogo.png";
 import logoSpurs from "../../assets/img/spursLogo.png";
@@ -64,7 +65,34 @@ export default function Home() {
                           alt="Imagem-do-Escudo-Denver-Nuggets"
                         />
                       </div>
-                      <p>Nikola Jokic</p>
+                      <p className={S.boxNome}>Nikola Jokic</p>
+                      <ul className={S.geralAtleta}>
+                        <li>
+                          <strong>Idade:</strong> <p>29 anos (19/02/95)</p>
+                        </li>
+                        <li>
+                          <strong>Altura:</strong>
+                          <p>2,11m</p>
+                        </li>
+                        <li>
+                          <strong>Peso:</strong>
+                          <p>129kg</p>
+                        </li>
+                        <li>
+                          <strong>Posição:</strong>
+                          <p>Pivô (C)</p>
+                        </li>
+                        <li>
+                          <strong>Destaques: </strong>
+                          <p>
+                            MVP NBA(21/22)/ MVP das Finais(2023)/ Campeão da
+                            NBA(2023)/ 6x All-Star
+                          </p>
+                        </li>
+                      </ul>
+                      <div className={S.BoxNbaCard}>
+                        <img className={S.nbaCard} src={Nba} alt="" />
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -86,7 +114,31 @@ export default function Home() {
                           alt="Imagem-do-Escudo-Oklahoma-City-Thunder"
                         />
                       </div>
-                      <p>Shai Gilgeous-Alexander</p>
+                      <p className={S.boxNome}>Shai Gilgeous-Alexander</p>
+                      <ul className={S.geralAtleta}>
+                        <li>
+                          <strong>Idade: </strong> <p>25 anos (12/07/98)</p>
+                        </li>
+                        <li>
+                          <strong>Altura:</strong>
+                          <p>1,98m</p>
+                        </li>
+                        <li>
+                          <strong>Peso:</strong>
+                          <p>88kg</p>
+                        </li>
+                        <li>
+                          <strong>Posição:</strong>
+                          <p>Armador (PG)</p>
+                        </li>
+                        <li>
+                          <strong>Destaques: </strong>
+                          <p>All-Star 2024</p>
+                        </li>
+                      </ul>
+                      <div className={S.BoxNbaCard}>
+                        <img className={S.nbaCard} src={Nba} alt="" />
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -108,7 +160,31 @@ export default function Home() {
                           alt="Imagem-do-Escudo-San-Antonio-Spurs"
                         />
                       </div>
-                      <p>Victor Wembanyama</p>
+                      <p className={S.boxNome}>Victor Wembanyama</p>
+                      <ul className={S.geralAtleta}>
+                        <li>
+                          <strong>Idade:</strong> <p>20 anos (04/01/04)</p>
+                        </li>
+                        <li>
+                          <strong>Altura:</strong>
+                          <p>2,24m</p>
+                        </li>
+                        <li>
+                          <strong>Peso:</strong>
+                          <p> 95kg</p>
+                        </li>
+                        <li>
+                          <strong>Posição:</strong>
+                          <p>Pivô/ Ala-Pivô (C/PF)</p>
+                        </li>
+                        <li>
+                          <strong>Destaques:</strong>
+                          <p>Provável Rookie 2024</p>
+                        </li>
+                      </ul>
+                      <div className={S.BoxNbaCard}>
+                        <img className={S.nbaCard} src={Nba} alt="" />
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -121,10 +197,8 @@ export default function Home() {
                 A seção <strong>Destaques da Temporada</strong> destaca os
                 jogadores que mais vêm se sobressaindo na NBA 2024–2025. Com
                 estatísticas impressionantes e atuações decisivas, atletas como
-                Shai Gilgeous-Alexander, Nikola Jokić e Victor Wembanyama
-                mostram por que estão entre os principais nomes da liga. O
-                objetivo é valorizar esses talentos e manter os fãs por dentro
-                dos grandes momentos da temporada.
+                Nikola Jokić, Shai Gilgeous-Alexander e Victor Wembanyama
+                mostram por que estão entre os principais nomes da liga.
               </p>
             </div>
             {/* botao que transfere para a pagina NBA */}

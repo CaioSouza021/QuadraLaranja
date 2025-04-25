@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Perfil from "../../assets/img/iconperfil.png";
+
 import S from "./Header.module.scss";
 import Logo from "../../assets/img/Logo.png";
 
@@ -17,11 +17,6 @@ export default function Header() {
           <Link to="/Quadras">Quadras</Link>
           <Link to="/Sobre">Sobre Nós</Link>
         </nav>
-        <div>
-          <Link to="/Login">
-            <img src={Perfil} alt="Icon-de-login" />
-          </Link>
-        </div>
       </section>
     </header>
   );
