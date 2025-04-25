@@ -5,21 +5,89 @@ h3,
 p {
   color: #fff;
 }
+
 // ESTILO GERAL DE BOTAO
+// .botaoLink {
+//   width: 250px;
+//   height: 70px;
+//   background-color: #fff;
+//   margin-top: 1.4rem;
+
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   border-radius: 10px;
+//   position: relative;
+//   overflow: hidden;
+// }
+
+// .botaoLink span {
+//   color: #000;
+//   font-size: 1.7rem;
+//   position: relative;
+// }
+// // ESTILO GERAL DA ANIMAÇÃO COLORIDA DO BOTAO
+// .botaoLink::before {
+//   content: "";
+//   background-color: #fe6600;
+//   width: 0px;
+//   height: 0px;
+//   position: absolute;
+//   top: var(--eixoY);
+//   left: var(--eixoX);
+//   border-radius: 50%;
+//   transform: translate(-50%, 50%);
+//   transition: width 0.5s, height 0.5s, top 0.5s, left 0.5s;
+// }
+
+// .botaoLink:hover::before {
+//   width: 400px;
+//   height: 400px;
+// }
+
 .botaoLink {
   width: 250px;
   height: 70px;
-  cursor: pointer;
-  background-color: rgb(235, 175, 23);
+  background-color: #fff;
   margin-top: 1.4rem;
-  font-size: 1.7rem;
-  color: #fff;
+
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  transition: color 0.4s;
 }
 
+.botaoLink span {
+  color: #000;
+  font-size: 1.7rem;
+  position: relative;
+  z-index: 1;
+}
+
+.botaoLink::before {
+  content: "";
+  position: absolute;
+  top: var(--eixoY, 50%);
+  left: var(--eixoX, 50%);
+  width: 0;
+  height: 0;
+  background-color: #fe6600;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.6s ease, height 0.6s ease, top 0.3s, left 0.3s;
+  z-index: 0;
+}
+
+.botaoLink:hover::before {
+  width: 600px;
+  height: 400px;
+}
+
+// ---------------------------------------
 // ESTILO DA HOME EM GERAL
 .Home {
   height: 150vh;

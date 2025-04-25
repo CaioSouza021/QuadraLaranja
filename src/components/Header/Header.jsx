@@ -7,11 +7,12 @@ export default function Header() {
   return (
     <header>
       <section>
-        <a href="#">
+        <Link to="/">
+          {" "}
           <img className={S.logo} src={Logo} alt="Logo-Basquete" />
-        </a>
+        </Link>
 
-        <nav>
+        <nav className={S.navHeader}>
           <Link to="/">Home</Link>
           <Link to="/Times">NBA</Link>
           <Link to="/Quadras">Quadras</Link>

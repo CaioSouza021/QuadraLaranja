@@ -4,7 +4,7 @@ header {
   position: fixed;
   top: 0;
   z-index: 2;
-  background-color: #7e5dc1;
+  background-color: transparent;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.3);
 }
 section {
@@ -25,13 +25,14 @@ header section {
   width: 100%;
 }
 
-nav {
+.navHeader {
   width: 50%;
   height: 100%;
   display: flex;
 }
 
-nav a {
+// LINKS
+.navHeader a {
   width: 50%;
   display: flex;
   align-self: center;
@@ -40,18 +41,22 @@ nav a {
   font-weight: 500;
   color: #fff;
   transition: 0.2s;
+  position: relative;
+  text-decoration: none;
 }
 
 // animação dos links
-nav a:hover {
-  color: orange;
-  border-bottom: 0.1rem solid orange;
-  padding-bottom: 0.5rem;
+.navHeader a::after {
+  content: "";
+  width: 0%;
+  height: 2px;
+  background-color: orange;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  transition: 0.5s ease-in-out;
 }
 
-nav a i {
-  color: #fff;
-  background-color: black;
+nav a:hover::after {
+  width: 70%;
 }
-
-// estilo do Login

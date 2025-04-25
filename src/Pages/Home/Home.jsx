@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+import { useEffect, useRef } from "react";
 import S from "./Home.module.scss";
 import videoBG from "../../assets/videos/VideoBG.mp4";
 import Nba from "../../assets/img/nbaLogo.png";
@@ -9,6 +11,51 @@ import Shai from "../../assets/img/shai.jpg";
 import Jokic from "../../assets/img/jokic.jpg";
 
 export default function Home() {
+  // Cria duas referências diferentes para os dois botões
+  const btnRef1 = useRef(null);
+  const btnRef2 = useRef(null);
+
+  // Efeito de animação nos botões
+  useEffect(() => {
+    const animateButton = (btn) => {
+      // Evento de movimento do mouse dentro do botão
+      const handleMouseMove = (e) => {
+        const rect = btn.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        // Define as variáveis
+        btn.style.setProperty("--eixoX", `${x}px`);
+        btn.style.setProperty("--eixoY", `${y}px`);
+      };
+
+      const handleMouseLeave = (e) => {
+        const rect = btn.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+
+        btn.style.setProperty("--eixoX", `${x}px`);
+        btn.style.setProperty("--eixoY", `${y}px`);
+      };
+
+      btn.addEventListener("mousemove", handleMouseMove);
+      btn.addEventListener("mouseleave", handleMouseLeave);
+      // Função de limpeza
+      return () => {
+        btn.removeEventListener("mousemove", handleMouseMove);
+        btn.removeEventListener("mouseleave", handleMouseLeave);
+      };
+    };
+
+    const cleanups = [];
+    // Aplica a função de animação nos dois botões
+    if (btnRef1.current) cleanups.push(animateButton(btnRef1.current));
+    if (btnRef2.current) cleanups.push(animateButton(btnRef2.current));
+
+    return () => {
+      cleanups.forEach((cleanup) => cleanup && cleanup());
+    };
+  }, []);
+
   return (
     <>
       {/* video de fundo */}
@@ -30,9 +77,11 @@ export default function Home() {
                 jogo. Tudo isso num só lugar, feito pra quem respira basquete de
                 verdade.
               </p>
-              <a className={S.botaoLink} href="#">
-                Sobre Nós
-              </a>
+              <div>
+                <Link to="/Sobre" className={S.botaoLink} ref={btnRef1}>
+                  <span> Sobre Nós</span>
+                </Link>
+              </div>
             </div>
           </section>
         </div>
@@ -203,9 +252,11 @@ export default function Home() {
             </div>
             {/* botao que transfere para a pagina NBA */}
             <div className={S.boxBtn}>
-              <a className={S.botaoLink} href="#">
-                Times
-              </a>
+              <div>
+                <Link to="/Sobre" className={S.botaoLink} ref={btnRef2}>
+                  <span> Sobre Nós</span>
+                </Link>
+              </div>
             </div>
           </div>
         </section>
