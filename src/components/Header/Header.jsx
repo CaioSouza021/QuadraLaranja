@@ -1,11 +1,30 @@
+import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-
 import S from "./Header.module.scss";
 import Logo from "../../assets/img/Logo.png";
+// animação para a header
+// const headerRef = useRef(null);
+// useEffect(() => {
+// };
 
 export default function Header() {
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 0);
+    };
+    // ativa a animação
+    window.addEventListener("scroll", handleScroll);
+
+    // desativa a animação
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   return (
-    <header>
+    <header id="header" className={scrolled ? S.rolar : ""}>
       <section>
         <Link to="/">
           {" "}

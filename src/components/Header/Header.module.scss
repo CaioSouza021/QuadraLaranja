@@ -4,11 +4,19 @@ header {
   position: fixed;
   top: 0;
   z-index: 2;
-  background-color: #0f3d3e;
+  background-color: transparent;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.3);
-  // #0f3d3e; verde musco modo claro
-  // #0a0e23; azul dark modo escuro
+  transition: 0.6s;
+  z-index: 10;
 }
+// ANIMAÇÃO DA HEADER
+
+header.rolar {
+  background-color: #0a0e23;
+  height: 95px;
+  box-shadow: 0 0 8px #00000061;
+}
+
 section {
   display: flex;
   align-items: center;
@@ -17,7 +25,7 @@ section {
   padding: 1.5rem 0;
   position: relative;
 }
-
+// #0f3d3e; verde musco modo claro
 section .logo {
   height: 95px;
 }
