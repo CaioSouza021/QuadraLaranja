@@ -4,8 +4,10 @@ header {
   position: fixed;
   top: 0;
   z-index: 2;
-  background-color: transparent;
+  background-color: #0f3d3e;
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.3);
+  // #0f3d3e; verde musco modo claro
+  // #0a0e23; azul dark modo escuro
 }
 section {
   display: flex;
@@ -50,7 +52,7 @@ header section {
   content: "";
   width: 0%;
   height: 2px;
-  background-color: orange;
+  background-color: #fe6600;
   position: absolute;
   bottom: 0;
   left: 0;

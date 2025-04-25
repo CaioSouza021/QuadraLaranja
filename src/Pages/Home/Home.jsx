@@ -11,10 +11,8 @@ import Shai from "../../assets/img/shai.jpg";
 import Jokic from "../../assets/img/jokic.jpg";
 
 export default function Home() {
-  // Cria duas referências diferentes para os dois botões
-  const btnRef1 = useRef(null);
-  const btnRef2 = useRef(null);
-
+  const btnRef1 = useRef(null); // animação do primeiro botao
+  const btnRef2 = useRef(null); // animação do segundo botao
   // Efeito de animação nos botões
   useEffect(() => {
     const animateButton = (btn) => {
@@ -253,8 +251,8 @@ export default function Home() {
             {/* botao que transfere para a pagina NBA */}
             <div className={S.boxBtn}>
               <div>
-                <Link to="/Sobre" className={S.botaoLink} ref={btnRef2}>
-                  <span> Sobre Nós</span>
+                <Link to="/Times" className={S.botaoLink} ref={btnRef2}>
+                  <span>NBA</span>
                 </Link>
               </div>
             </div>
