@@ -13,7 +13,7 @@
 }
 .CarrosselCont {
   display: flex;
-  width: 200%; // 5 imagens
+  width: 400%; //
   height: 100%;
   transition: transform 1s ease-in-out;
 }
@@ -53,75 +53,62 @@
 .manualBtn.active {
   background-color: #fe6600;
 }
+// FIM DO CARROSSEL
 
-// .CarrosselCont {
-//   width: 400%;
-//   height: auto;
-//   display: flex;
-// }
-// .CarrosselCont input {
-//   display: none;
-// }
+// TITULO DA PAG
+main .BoxTitulo {
+  background-color: #2c2f36;
+  height: 300px;
+}
 
-// .CarrosselBox {
-//   width: 25%;
-//   height: auto;
-//   position: relative;
-//   text-align: center;
-//   transition: 1s;
-// }
+main .BoxTitulo .Titulo {
+  width: 97%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
 
-// .CarrosselBox img {
-//   width: 100%;
-// }
-// .navManual,
-// .navAuto div {
-//   width: 100%;
-//   height: auto;
-//   margin-top: 620px;
-//   position: absolute;
-//   display: flex;
-//   justify-content: center;
-//   text-align: center;
-// }
-// .navManual .manualBtn,
-// .navAuto div {
-//   border: 1px solid #fe6600;
-//   padding: 10px;
-//   border-radius: 50%;
-//   cursor: pointer;
-//   transition: 0.4s;
-// }
+.BoxTitulo .Titulo h2 {
+  font-weight: 700;
+  font-size: 3rem;
+}
 
-// .navManual .manualBtn:not(:last-child),
-// .navAuto div:not(:last-child) {
-//   margin-right: 10px;
-// }
+.BoxTitulo .Titulo span {
+  color: #fe6600;
+}
 
-// .navManual .manualBtn:hover {
-//   background-color: #fe6600;
-// }
+.BoxTitulo .Titulo p {
+  margin-top: 10px;
+  font-weight: 300;
+  font-size: 1.2rem;
+}
 
-// #radio1:checked ~ .navAuto .autoBtn1,
-// #radio1:checked ~ .navAuto .autoBtn2,
-// #radio1:checked ~ .navAuto .autoBtn3,
-// #radio1:checked ~ .navAuto .autoBtn4,
-// #radio1:checked ~ .navAuto .autoBtn5 {
-//   background-color: #fe6600;
-// }
+// INICIO DAS INFO
+main .ContainerInfo {
+  height: 200vh;
+  background-color: #2c2f36;
+}
 
-// #radio1:checked ~ .CarrosselBox1 {
-//   margin-left: 0%;
-// }
-// #radio1:checked ~ .CarrosselBox1 {
-//   margin-left: -25%;
-// }
-// #radio1:checked ~ .CarrosselBox1 {
-//   margin-left: -50%;
-// }
-// #radio1:checked ~ .CarrosselBox1 {
-//   margin-left: -75%;
-// }
-// #radio1:checked ~ .CarrosselBox1 {
-//   margin-left: -100%;
-// }
+.ContainerInfo .CaixaInfo {
+  height: 100%;
+  width: 100%;
+}
+
+.ContainerInfo .CaixaInfo .teste {
+  border: solid 2px yellow;
+  height: 220px;
+  width: 80%;
+  display: flex;
+  align-items: center;
+}
+
+.ContainerInfo .CaixaInfo img {
+  height: 220px;
+}
+
+.ContainerInfo .CaixaInfo .teste p {
+  border: solid 2px pink;
+  width: 100%;
+}
