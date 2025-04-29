@@ -86,29 +86,86 @@ main .BoxTitulo .Titulo {
 }
 
 // INICIO DAS INFO
-main .ContainerInfo {
-  height: 200vh;
+main .ContainerHistoria {
   background-color: #2c2f36;
+  height: 400px;
+
+  padding-left: 20px;
 }
 
-.ContainerInfo .CaixaInfo {
-  height: 100%;
-  width: 100%;
+.ContainerHistoria .boxInfo img {
+  height: 300px;
+  border-radius: 10px;
 }
 
-.ContainerInfo .CaixaInfo .teste {
-  border: solid 2px yellow;
-  height: 220px;
+.ContainerHistoria .boxInfo .boxText {
+  height: 200px;
   width: 80%;
   display: flex;
   align-items: center;
 }
-
-.ContainerInfo .CaixaInfo img {
-  height: 220px;
+.boxText .CaixaText h3 {
+  font-size: 1.5rem;
+  background-color: #fe6600;
+  padding-left: 10px;
 }
 
-.ContainerInfo .CaixaInfo .teste p {
-  border: solid 2px pink;
+.boxText .CaixaText p {
   width: 100%;
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
+.boxInfo .boxText .CaixaText {
+  margin-left: 30px;
+  height: 200px;
+  border: solid 2px #fe6600;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+// ordem invertida
+
+.ContainerEstrangeiro {
+  background-color: #2c2f36;
+  height: 400px;
+}
+
+.ContainerEstrangeiro .boxEstrangeiro {
+  display: flex;
+  height: 300px;
+  width: 80%;
+  margin-left: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.ContainerEstrangeiro .boxEstrangeiro .EstrangeiroText {
+  height: 200px;
+  margin-right: 30px;
+  text-align: end;
+  border: solid 2px #fe6600;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.boxEstrangeiro .EstrangeiroText h3 {
+  font-size: 1.5rem;
+  background-color: #fe6600;
+  width: 100%;
+
+  padding-right: 20px;
+}
+.boxEstrangeiro .EstrangeiroText p {
+  height: 80%;
+  width: 100%;
+  margin-top: 20px;
+  padding-right: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.ContainerEstrangeiro .boxEstrangeiro img {
+  height: 300px;
+  border-radius: 10px;
 }

@@ -11,7 +11,8 @@ import Estrangeiro from "../../assets/img/estrangeiro.webp";
 import Lendas from "../../assets/img/Lendas.jpg";
 import Rodman from "../../assets/img/Rodman.jpg";
 import NewGen from "../../assets/img/novaGen.jpeg";
-import OldNew from "../../assets/img/oldNew.jpg";
+import Curry from "../../assets/img/Curry.jpg";
+import TheShot from "../../assets/img/theShot.avif";
 export default function Sobre() {
   // Array de imagens
   const images = [Wade, Jordan, Wilt, Lebron, Bill];
@@ -76,9 +77,9 @@ export default function Sobre() {
         </div>
       </section>
 
-      <section className={S.ContainerInfo}>
-        <div className={S.CaixaInfo}>
-          <div className={S.teste}>
+      <section className={S.ContainerHistoria}>
+        <div className={S.boxInfo}>
+          <div className={S.boxText}>
             <img src={Logo} alt="" />
             <div className={S.CaixaText}>
               <h3>Historia da NBA</h3>
@@ -93,6 +94,149 @@ export default function Sobre() {
                 impedit quibusdam! Sit, vel.
               </p>
             </div>
+          </div>
+        </div>
+      </section>
+      <section className={S.ContainerEstrangeiro}>
+        <div className={S.boxEstrangeiro}>
+          <div className={S.EstrangeiroText}>
+            <h3>A Globalização do Basquete</h3>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias,
+              aliquid consequatur architecto dolorem debitis maiores, suscipit
+              quam labore eius obcaecati sint dicta dolor rem, fugit vel. Autem
+              sequi voluptatem dolorem?Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Tenetur voluptatum exercitationem nulla adipisci
+              optio facilis debitis, explicabo nesciunt soluta architecto,
+              consequatur deserunt doloribus, modi eius cupiditate impedit
+              quibusdam! Sit, vel.
+            </p>
+          </div>
+          <div className={S.EstrangeiroImg2}>
+            <img src={Estrangeiro} alt="" />
+          </div>
+        </div>
+      </section>
+
+      <section className={S.ContainerHistoria}>
+        <div className={S.boxInfo}>
+          <div className={S.boxText}>
+            <img src={Rival} alt="" />
+            <div className={S.CaixaText}>
+              <h3> Grandes Rivalidades da NBA</h3>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias,
+                aliquid consequatur architecto dolorem debitis maiores, suscipit
+                quam labore eius obcaecati sint dicta dolor rem, fugit vel.
+                Autem sequi voluptatem dolorem?Lorem ipsum dolor sit amet
+                consectetur adipisicing elit. Tenetur voluptatum exercitationem
+                nulla adipisci optio facilis debitis, explicabo nesciunt soluta
+                architecto, consequatur deserunt doloribus, modi eius cupiditate
+                impedit quibusdam! Sit, vel.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className={S.ContainerEstrangeiro}>
+        <div className={S.boxEstrangeiro}>
+          <div className={S.EstrangeiroText}>
+            <h3>Lendas que Marcaram Épocas</h3>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias,
+              aliquid consequatur architecto dolorem debitis maiores, suscipit
+              quam labore eius obcaecati sint dicta dolor rem, fugit vel. Autem
+              sequi voluptatem dolorem?Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Tenetur voluptatum exercitationem nulla adipisci
+              optio facilis debitis, explicabo nesciunt soluta architecto,
+              consequatur deserunt doloribus, modi eius cupiditate impedit
+              quibusdam! Sit, vel.
+            </p>
+          </div>
+          <div className={S.EstrangeiroImg2}>
+            <img src={Lendas} alt="" />
+          </div>
+        </div>
+      </section>
+
+      <section className={S.ContainerHistoria}>
+        <div className={S.boxInfo}>
+          <div className={S.boxText}>
+            <img src={Curry} alt="" />
+            <div className={S.CaixaText}>
+              <h3>Recordes que Pareciam Impossíveis</h3>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias,
+                aliquid consequatur architecto dolorem debitis maiores, suscipit
+                quam labore eius obcaecati sint dicta dolor rem, fugit vel.
+                Autem sequi voluptatem dolorem?Lorem ipsum dolor sit amet
+                consectetur adipisicing elit. Tenetur voluptatum exercitationem
+                nulla adipisci optio facilis debitis, explicabo nesciunt soluta
+                architecto, consequatur deserunt doloribus, modi eius cupiditate
+                impedit quibusdam! Sit, vel.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className={S.ContainerEstrangeiro}>
+        <div className={S.boxEstrangeiro}>
+          <div className={S.EstrangeiroText}>
+            <h3>Momentos que Definiram a História</h3>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias,
+              aliquid consequatur architecto dolorem debitis maiores, suscipit
+              quam labore eius obcaecati sint dicta dolor rem, fugit vel. Autem
+              sequi voluptatem dolorem?Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Tenetur voluptatum exercitationem nulla adipisci
+              optio facilis debitis, explicabo nesciunt soluta architecto,
+              consequatur deserunt doloribus, modi eius cupiditate impedit
+              quibusdam! Sit, vel.
+            </p>
+          </div>
+          <div className={S.EstrangeiroImg2}>
+            <img src={TheShot} alt="" />
+          </div>
+        </div>
+      </section>
+
+      <section className={S.ContainerHistoria}>
+        <div className={S.boxInfo}>
+          <div className={S.boxText}>
+            <img src={Rodman} alt="" />
+            <div className={S.CaixaText}>
+              <h3>As Defesas Mais Icônicas</h3>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias,
+                aliquid consequatur architecto dolorem debitis maiores, suscipit
+                quam labore eius obcaecati sint dicta dolor rem, fugit vel.
+                Autem sequi voluptatem dolorem?Lorem ipsum dolor sit amet
+                consectetur adipisicing elit. Tenetur voluptatum exercitationem
+                nulla adipisci optio facilis debitis, explicabo nesciunt soluta
+                architecto, consequatur deserunt doloribus, modi eius cupiditate
+                impedit quibusdam! Sit, vel.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className={S.ContainerEstrangeiro}>
+        <div className={S.boxEstrangeiro}>
+          <div className={S.EstrangeiroText}>
+            <h3>Os Novos Rostos da NBA</h3>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias,
+              aliquid consequatur architecto dolorem debitis maiores, suscipit
+              quam labore eius obcaecati sint dicta dolor rem, fugit vel. Autem
+              sequi voluptatem dolorem?Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Tenetur voluptatum exercitationem nulla adipisci
+              optio facilis debitis, explicabo nesciunt soluta architecto,
+              consequatur deserunt doloribus, modi eius cupiditate impedit
+              quibusdam! Sit, vel.
+            </p>
+          </div>
+          <div className={S.EstrangeiroImg2}>
+            <img src={NewGen} alt="" />
           </div>
         </div>
       </section>
