@@ -66,7 +66,7 @@ export default function Sobre() {
       <section className={S.BoxTitulo}>
         <div className={S.Titulo}>
           <h2>
-            Momentos Que Definem a <span>NBA</span>
+            Sobre a Essência da <span>NBA</span>
           </h2>
           <p>
             Conheça a história e os momentos mais marcantes da NBA, das grandes
@@ -80,7 +80,7 @@ export default function Sobre() {
       <section className={S.ContainerEsq}>
         <div className={S.esqInfo}>
           <div className={S.esqText}>
-            <img src={Logo} alt="" />
+            <img src={Logo} alt="Primeira Logo da NBA" />
             <div className={S.CaixaTextEsq}>
               <h3>Historia da NBA</h3>
               <p>
@@ -109,7 +109,7 @@ export default function Sobre() {
             </p>
           </div>
           <div>
-            <img src={Estrangeiro} alt="" />
+            <img src={Estrangeiro} alt="Yao Ming e shaquille o'neal" />
           </div>
         </div>
       </section>
@@ -117,7 +117,7 @@ export default function Sobre() {
       <section className={S.ContainerEsq}>
         <div className={S.esqInfo}>
           <div className={S.esqText}>
-            <img src={Rival} alt="" />
+            <img src={Rival} alt="Magic Johnson e Larry Bird" />
             <div className={S.CaixaTextEsq}>
               <h3>Grandes Rivalidades da NBA</h3>
               <p>
@@ -145,7 +145,10 @@ export default function Sobre() {
             </p>
           </div>
           <div>
-            <img src={Lendas} alt="" />
+            <img
+              src={Lendas}
+              alt="Kobe bryant, Allen Iverson, Lebron James, Michael Jordan, Larry Bird, Wilt Chamberlain"
+            />
           </div>
         </div>
       </section>
@@ -153,7 +156,7 @@ export default function Sobre() {
       <section className={S.ContainerEsq}>
         <div className={S.esqInfo}>
           <div className={S.esqText}>
-            <img src={Curry} alt="" />
+            <img src={Curry} alt="Stephen Curry" />
             <div className={S.CaixaTextEsq}>
               <h3>Recordes que Pareciam Impossíveis</h3>
               <p>
@@ -182,7 +185,7 @@ export default function Sobre() {
             </p>
           </div>
           <div>
-            <img src={TheShot} alt="" />
+            <img src={TheShot} alt="Arremeço de Jordan The Shot" />
           </div>
         </div>
       </section>

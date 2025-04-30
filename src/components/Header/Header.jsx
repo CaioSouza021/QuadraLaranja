@@ -35,7 +35,7 @@ export default function Header() {
           <Link to="/">Home</Link>
           <Link to="/Times">NBA</Link>
           <Link to="/Quadras">Quadras</Link>
-          <Link to="/Sobre">Sobre Nós</Link>
+          <Link to="/Sobre">Sobre </Link>
         </nav>
       </section>
     </header>
