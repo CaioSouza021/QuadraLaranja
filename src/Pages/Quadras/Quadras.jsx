@@ -1,5 +1,7 @@
 import S from "./Quadras.module.scss";
+import "bootstrap-icons/font/bootstrap-icons.css";
 import BG from "../../assets/img/Hero.jpg";
+import Knicks from "../../assets/img/QuadraKnicks.png";
 
 export default function Quadras() {
   return (
@@ -13,6 +15,388 @@ export default function Quadras() {
                   Os Palcos da <span>NBA</span>
                 </h2>
                 <p>Explore as arenas onde a história do basquete acontece</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.ContainerCardsQuadra}>
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                <h4>madison square garden</h4>
+                <p>Nova York, NY</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 19.812</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-house"></i>
+                <p>Time: New York Knicks</p>
               </div>
             </div>
           </section>
