@@ -20,6 +20,12 @@ export default function Quadras() {
           </section>
 
           <section className={S.ContainerCardsQuadra}>
+            <section className={S.BoxTituloQuadra}>
+              <h2>
+                ARENAS DA <span>NBA</span>
+              </h2>
+            </section>
+
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
                 <img src={Knicks} alt="" />
