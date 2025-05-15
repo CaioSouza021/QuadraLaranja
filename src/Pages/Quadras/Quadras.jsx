@@ -2,35 +2,35 @@ import S from "./Quadras.module.scss";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import BG from "../../assets/img/Hero.jpg";
 import Knicks from "../../assets/img/QuadraKnicks.png";
-import Philadelphia from "../../assets/img/";
-import Bulls from "../../assets/img/";
-import Rockets from "../../assets/img/";
-import Celtics from "../../assets/img/";
-import Timberwolves from "../../assets/img/";
-import Hawks from "../../assets/img/";
-import Hornets from "../../assets/img/";
-import Pelicans from "../../assets/img/";
-import Raptors from "../../assets/img/";
-import Cavaliers from "../../assets/img/";
-import Thunder from "../../assets/img/";
-import Blazers from "../../assets/img/";
-import Pistons from "../../assets/img/";
-import Magic from "../../assets/img/";
-import Heat from "../../assets/img/";
-import Clippers from "../../assets/img/";
-import Sacramento from "../../assets/img/";
-import Indiana from "../../assets/img/";
-import Spurs from "../../assets/img/";
-import Suns from "../../assets/img/";
-import Bucks from "../../assets/img/";
-import Jazz from "../../assets/img/";
-import Lakers from "../../assets/img/";
-import Warriors from "../../assets/img/";
-import Wizards from "../../assets/img/";
-import Nets from "../../assets/img/";
-import Denver from "../../assets/img/";
-import Dallas from "../../assets/img/";
-import imgEstadio from "../../assets/img/";
+import Philadelphia from "../../assets/img/Arenas/";
+import Bulls from "../../assets/img/Arenas/";
+import Rockets from "../../assets/img/Arenas/";
+import Celtics from "../../assets/img/Arenas/";
+import Timberwolves from "../../assets/img/Arenas/";
+import Hawks from "../../assets/img/Arenas/";
+import Hornets from "../../assets/img/Arenas/";
+import Pelicans from "../../assets/img/Arenas/";
+import Raptors from "../../assets/img/Arenas/";
+import Cavaliers from "../../assets/img/Arenas/";
+import Thunder from "../../assets/img/Arenas/";
+import Blazers from "../../assets/img/Arenas/";
+import Pistons from "../../assets/img/Arenas/";
+import Magic from "../../assets/img/Arenas/";
+import Heat from "../../assets/img/Arenas/";
+import Clippers from "../../assets/img/Arenas/";
+import Sacramento from "../../assets/img/Arenas/";
+import Indiana from "../../assets/img/Arenas/";
+import Spurs from "../../assets/img/Arenas/";
+import Suns from "../../assets/img/Arenas/";
+import Bucks from "../../assets/img/Arenas/";
+import Jazz from "../../assets/img/Arenas/";
+import Lakers from "../../assets/img/Arenas/";
+import Warriors from "../../assets/img/Arenas/";
+import Wizards from "../../assets/img/Arenas/";
+import Nets from "../../assets/img/Arenas/";
+import Denver from "../../assets/img/Arenas/";
+import Dallas from "../../assets/img/Arenas/";
+import Memphis from "../../assets/img/Arenas/";
 
 export default function Quadras() {
   return (
@@ -640,6 +640,27 @@ export default function Quadras() {
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
                 <p>Time: Philadelphia 76ers</p>
+              </div>
+            </div>
+
+            <div className={S.BoxCardsQuadra}>
+              <div className={S.ImgCardsQuadra}>
+                <img src={Knicks} alt="" />
+              </div>
+              <div className={S.BoxNameStadio}>
+                {/* nome da Arena */}
+                <h4>FedExForum</h4>
+                {/* local */}
+                <p>Memphis, Tennessee</p>
+              </div>
+
+              <div className={S.BoxInfoStadio1}>
+                <i class="bi bi-house"></i>
+                <p>Capacidade: 18.119</p>
+              </div>
+              <div className={S.BoxInfoStadio}>
+                <i class="bi bi-list-stars"></i>
+                <p>Time: Memphis Grizzlies</p>
               </div>
             </div>
           </section>
