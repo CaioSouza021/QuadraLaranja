@@ -284,18 +284,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Kaseya Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Miami, Flórida</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 19.600</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Miami Heat</p>
               </div>
             </div>
 
@@ -305,18 +305,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Kia Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Orlando, Flórida</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 18.846</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Orlando Magic</p>
               </div>
             </div>
 
@@ -326,18 +326,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Little Ceasars Arena</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Detroit, Michigan</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 20.332</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Detroit Pistons</p>
               </div>
             </div>
 
@@ -347,18 +347,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Madison Square Garden</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Nova York, Nova York</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 19.812</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: New York Knicks</p>
               </div>
             </div>
 
@@ -368,18 +368,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Moda Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Portland, Oregon</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 19.441</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Portand Trail Blazers</p>
               </div>
             </div>
 
@@ -389,18 +389,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Paycom Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Oklahoma City, Oklahoma</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 18.203</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Oklahoma City Thunder</p>
               </div>
             </div>
 
@@ -410,18 +410,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Rocket Mortgage FieldHouse</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Cleveland, Ohio</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 19.432</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Cleveland Cavaliers</p>
               </div>
             </div>
 
@@ -431,18 +431,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Scotiabank Arena</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Toronto, Ontário (Canadá)</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 19.800</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Toronto Raptors</p>
               </div>
             </div>
 
@@ -452,18 +452,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Smoothie King Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>New Orleans, Louisiana</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 16.867</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: New Orleans Pelicans</p>
               </div>
             </div>
 
@@ -473,18 +473,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Spectrum Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Charlotte, Carolina do Norte</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 19.077</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Charlotte Hornets</p>
               </div>
             </div>
 
@@ -494,18 +494,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>State Farm Arena</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Atlanta, Geórgia</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 17.044</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Atlanta Hawks</p>
               </div>
             </div>
 
@@ -515,18 +515,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Target Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Minneapolis, Minnesota</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 20.000</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Minnesota Timberwolves</p>
               </div>
             </div>
 
@@ -536,18 +536,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>TD Garden</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Boston, Massachusetts</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 18.624</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Boston Celtics</p>
               </div>
             </div>
 
@@ -557,18 +557,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Toyota Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Houston, Texas</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 18.055</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Houston Rockets</p>
               </div>
             </div>
 
@@ -578,18 +578,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>United Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Chicago, Ilinois</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 20.917</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Chicago Bulls</p>
               </div>
             </div>
 
@@ -599,102 +599,18 @@ export default function Quadras() {
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
-                <h4>Delta Center</h4>
+                <h4>Wells Fargo Center</h4>
                 {/* local */}
-                <p>Salt Lake City, Utah</p>
+                <p>Filadélfia, Pensilvânia</p>
               </div>
 
               <div className={S.BoxInfoStadio1}>
                 <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
+                <p>Capacidade: 20.007</p>
               </div>
               <div className={S.BoxInfoStadio}>
                 <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
-              </div>
-            </div>
-
-            <div className={S.BoxCardsQuadra}>
-              <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
-              </div>
-              <div className={S.BoxNameStadio}>
-                {/* nome da Arena */}
-                <h4>Delta Center</h4>
-                {/* local */}
-                <p>Salt Lake City, Utah</p>
-              </div>
-
-              <div className={S.BoxInfoStadio1}>
-                <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
-              </div>
-              <div className={S.BoxInfoStadio}>
-                <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
-              </div>
-            </div>
-
-            <div className={S.BoxCardsQuadra}>
-              <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
-              </div>
-              <div className={S.BoxNameStadio}>
-                {/* nome da Arena */}
-                <h4>Delta Center</h4>
-                {/* local */}
-                <p>Salt Lake City, Utah</p>
-              </div>
-
-              <div className={S.BoxInfoStadio1}>
-                <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
-              </div>
-              <div className={S.BoxInfoStadio}>
-                <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
-              </div>
-            </div>
-
-            <div className={S.BoxCardsQuadra}>
-              <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
-              </div>
-              <div className={S.BoxNameStadio}>
-                {/* nome da Arena */}
-                <h4>Delta Center</h4>
-                {/* local */}
-                <p>Salt Lake City, Utah</p>
-              </div>
-
-              <div className={S.BoxInfoStadio1}>
-                <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
-              </div>
-              <div className={S.BoxInfoStadio}>
-                <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
-              </div>
-            </div>
-
-            <div className={S.BoxCardsQuadra}>
-              <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
-              </div>
-              <div className={S.BoxNameStadio}>
-                {/* nome da Arena */}
-                <h4>Delta Center</h4>
-                {/* local */}
-                <p>Salt Lake City, Utah</p>
-              </div>
-
-              <div className={S.BoxInfoStadio1}>
-                <i class="bi bi-house"></i>
-                <p>Capacidade: 18.306</p>
-              </div>
-              <div className={S.BoxInfoStadio}>
-                <i class="bi bi-list-stars"></i>
-                <p>Time: Utah Jazz</p>
+                <p>Time: Philadelphia 76ers</p>
               </div>
             </div>
           </section>
