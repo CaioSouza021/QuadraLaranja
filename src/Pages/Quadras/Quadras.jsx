@@ -57,7 +57,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Dallas} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -78,7 +78,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Denver} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -99,7 +99,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Nets} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -120,7 +120,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Wizards} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -141,7 +141,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Lakers} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -162,7 +162,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Jazz} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -183,7 +183,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Bucks} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -204,7 +204,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Suns} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -225,7 +225,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Spurs} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -246,7 +246,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Indiana} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -267,7 +267,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Sacramento} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -288,7 +288,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Clippers} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -309,7 +309,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Heat} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -330,7 +330,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Magic} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -351,7 +351,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Pistons} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -393,7 +393,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Blazers} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -414,7 +414,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Thunder} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -435,7 +435,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Cavaliers} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -456,7 +456,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Raptors} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -477,7 +477,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Pelicans} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -498,7 +498,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Hornets} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -519,7 +519,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Hawks} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -540,7 +540,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Timberwolves} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -561,7 +561,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Celtics} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -582,7 +582,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Rockets} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -603,7 +603,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Bulls} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -624,7 +624,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Philadelphia} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}
@@ -645,7 +645,7 @@ export default function Quadras() {
 
             <div className={S.BoxCardsQuadra}>
               <div className={S.ImgCardsQuadra}>
-                <img src={Knicks} alt="" />
+                <img src={Memphis} alt="" />
               </div>
               <div className={S.BoxNameStadio}>
                 {/* nome da Arena */}

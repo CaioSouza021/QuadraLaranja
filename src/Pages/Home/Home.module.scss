@@ -107,8 +107,9 @@ p {
 
 // ESTILO ATLETAS
 .boxAtletas {
-  height: 100vh;
-  display: block;
+  height: 100%;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
 // TITULO DOS CARDS
@@ -203,6 +204,7 @@ p {
   font-size: 23px;
   font-weight: 600;
   margin-top: 20px;
+  width: 100%;
 }
 
 // ESTILO DAS CARACTERISTICAS
