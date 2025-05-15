@@ -2,6 +2,35 @@ import S from "./Quadras.module.scss";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import BG from "../../assets/img/Hero.jpg";
 import Knicks from "../../assets/img/QuadraKnicks.png";
+import Philadelphia from "../../assets/img/";
+import Bulls from "../../assets/img/";
+import Rockets from "../../assets/img/";
+import Celtics from "../../assets/img/";
+import Timberwolves from "../../assets/img/";
+import Hawks from "../../assets/img/";
+import Hornets from "../../assets/img/";
+import Pelicans from "../../assets/img/";
+import Raptors from "../../assets/img/";
+import Cavaliers from "../../assets/img/";
+import Thunder from "../../assets/img/";
+import Blazers from "../../assets/img/";
+import Pistons from "../../assets/img/";
+import Magic from "../../assets/img/";
+import Heat from "../../assets/img/";
+import Clippers from "../../assets/img/";
+import Sacramento from "../../assets/img/";
+import Indiana from "../../assets/img/";
+import Spurs from "../../assets/img/";
+import Suns from "../../assets/img/";
+import Bucks from "../../assets/img/";
+import Jazz from "../../assets/img/";
+import Lakers from "../../assets/img/";
+import Warriors from "../../assets/img/";
+import Wizards from "../../assets/img/";
+import Nets from "../../assets/img/";
+import Denver from "../../assets/img/";
+import Dallas from "../../assets/img/";
+import imgEstadio from "../../assets/img/";
 
 export default function Quadras() {
   return (
