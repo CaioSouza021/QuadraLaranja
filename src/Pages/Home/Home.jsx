@@ -86,11 +86,10 @@ export default function Home() {
 
         {/* Atletas em destaques */}
         <section className={S.boxAtletas}>
-          <h2 className={S.titulo}>
-            Atletas em <span>destaque</span>
-          </h2>
-
           <div className={S.boxInfo}>
+            <h2 className={S.titulo}>
+              Atletas em <span>destaque</span>
+            </h2>
             {/*modelo do card flip  */}
 
             <ul>

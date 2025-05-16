@@ -106,34 +106,34 @@ p {
 }
 
 // ESTILO ATLETAS
-.boxAtletas {
-  height: 100%;
-  width: 100%;
-  flex-wrap: wrap;
-}
 
 // TITULO DOS CARDS
+.boxInfo {
+  height: 100px;
+  width: 100%;
+
+  align-items: center;
+  justify-content: center;
+}
 .titulo {
   text-align: center;
   text-transform: uppercase;
-  padding-bottom: 3.5rem;
   font-size: 4rem;
+  width: 100%;
+  height: 100%;
 }
 .titulo span {
   color: #fe6600;
 }
 
 // CAIXA DOS CARDS
-.boxInfo {
-  height: 53vh;
-  align-items: center;
-  justify-content: center;
-}
 
 .boxInfo ul li {
+  border: solid 2px red;
   width: 100%;
-  height: 100%;
+  height: 1700px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
 }
@@ -148,6 +148,7 @@ p {
 }
 .boxInfo ul li img {
   height: 550px;
+  width: 100%;
   border-radius: 8px;
 }
 .container .flip,
@@ -163,11 +164,13 @@ p {
 .tras,
 .PlayerFlip {
   position: absolute;
-  width: 100%;
+  min-width: 100%;
   height: 100%;
   border-radius: 10px;
+
   box-shadow: 0px, 0px, 10px rgba(0, 0, 0, 0.621);
   backface-visibility: hidden;
+  border: solid 2px;
 }
 // ESTILO NO VERSO DO CARD
 .tras {
@@ -180,7 +183,6 @@ p {
 // ESTILO DA CAIXA DA LOGO
 .container .tras .boxLogo {
   width: 100%;
-  padding-left: 100px;
   margin-top: 10px;
   align-items: center;
   justify-content: center;
@@ -191,11 +193,8 @@ p {
 
 // ESTILO DA LOGO
 .tras .Logo {
-  height: 100px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+  height: 80px;
+  width: 80px;
 }
 
 // ESTILO DOS NOMES
@@ -229,14 +228,18 @@ p {
 }
 
 // ESTILO DA LOGO DA NBA
-.geralAtleta .BoxNbaCard {
-  border: solid 2px greenyellow;
+
+.BoxNbaCard {
+  width: 100%;
+  height: 12%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .BoxNbaCard .nbaCard {
   height: 30px;
-  margin-top: 8px;
-  padding-left: 135px;
+  width: 60px;
 }
 
 // TRANSIÇÃO DO CARD
@@ -246,12 +249,12 @@ p {
 
 // ESTILO DA DESCRIÇÃO DOS ATLETAS
 .boxInfo .boxDescri {
+  border: solid 2px red;
   background-color: #00000060;
   width: 100%;
   text-align: center;
   display: flex;
   justify-content: center;
-  margin-top: 120px;
 }
 .boxInfo .boxDescri p {
   width: 65vw;
