@@ -1,6 +1,5 @@
 import S from "./Quadras.module.scss";
 import "bootstrap-icons/font/bootstrap-icons.css";
-import BG from "../../assets/img/Hero.jpg";
 import Knicks from "../../assets/img/QuadraKnicks.png";
 import Philadelphia from "../../assets/img/Arenas/PhiladelphiaArena.webp";
 import Bulls from "../../assets/img/Arenas/BullsArena.jpg";
