@@ -1,6 +1,6 @@
 .TamanhoSobre {
   background-color: #020202;
-  height: 2000px;
+  height: 100%;
   padding-top: 87px;
 }
 
@@ -83,6 +83,11 @@ main .BoxTitulo .Titulo {
   margin-top: 10px;
   font-weight: 300;
   font-size: 1.2rem;
+}
+
+.TamanhoBoxInfoSobre {
+  height: 100%;
+  width: 100%;
 }
 
 // INICIO DAS INFO ESQUERDA
