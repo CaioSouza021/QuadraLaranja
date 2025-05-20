@@ -34,7 +34,7 @@ export default function Header() {
         <nav className={S.navHeader}>
           <Link to="/">Home</Link>
           <Link to="/Times">NBA</Link>
-          <Link to="/Quadras">Quadras</Link>
+          <Link to="/Quadras">Arenas</Link>
           <Link to="/Sobre">Sobre </Link>
         </nav>
       </section>
