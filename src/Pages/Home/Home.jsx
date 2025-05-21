@@ -85,178 +85,180 @@ export default function Home() {
         </div>
 
         {/* Atletas em destaques */}
-        <section className={S.boxAtletas}>
-          <div className={S.boxInfo}>
-            <h2 className={S.titulo}>
-              Atletas em <span>destaque</span>
-            </h2>
-            {/*modelo do card flip  */}
+        <div className={S.teste1}>
+          <section className={S.boxAtletas}>
+            <div className={S.boxInfo}>
+              <h2 className={S.titulo}>
+                Atletas em <span>destaque</span>
+              </h2>
+              {/*modelo do card flip  */}
 
-            <ul>
-              <li>
-                <div className={S.container}>
-                  <div className={S.flip}>
-                    <div className={S.frente}>
-                      <img
-                        className={S.PlayerFlip}
-                        src={Jokic}
-                        alt="Imagem-do-Nikola-Jokić"
-                      />
-                    </div>
-                    <div className={S.tras}>
-                      <div className={S.boxLogo}>
+              <ul>
+                <li>
+                  <div className={S.container}>
+                    <div className={S.flip}>
+                      <div className={S.frente}>
                         <img
-                          className={S.Logo}
-                          src={logoDenver}
-                          alt="Imagem-do-Escudo-Denver-Nuggets"
+                          className={S.PlayerFlip}
+                          src={Jokic}
+                          alt="Imagem-do-Nikola-Jokić"
                         />
                       </div>
-                      <p className={S.boxNome}>Nikola Jokic</p>
-                      <ul className={S.geralAtleta}>
-                        <li>
-                          <strong>Idade:</strong> <p>29 anos (19/02/95)</p>
-                        </li>
-                        <li>
-                          <strong>Altura:</strong>
-                          <p>2,11m</p>
-                        </li>
-                        <li>
-                          <strong>Peso:</strong>
-                          <p>129kg</p>
-                        </li>
-                        <li>
-                          <strong>Posição:</strong>
-                          <p>Pivô (C)</p>
-                        </li>
-                        <li>
-                          <strong>Destaques: </strong>
-                          <p>
-                            MVP NBA(21/22)/ MVP das Finais(2023)/ Campeão da
-                            NBA(2023)/ 6x All-Star
-                          </p>
-                        </li>
-                      </ul>
-                      <div className={S.BoxNbaCard}>
-                        <img className={S.nbaCard} src={Nba} alt="" />
+                      <div className={S.tras}>
+                        <div className={S.boxLogo}>
+                          <img
+                            className={S.Logo}
+                            src={logoDenver}
+                            alt="Imagem-do-Escudo-Denver-Nuggets"
+                          />
+                        </div>
+                        <p className={S.boxNome}>Nikola Jokic</p>
+                        <ul className={S.geralAtleta}>
+                          <li>
+                            <strong>Idade:</strong> <p>29 anos (19/02/95)</p>
+                          </li>
+                          <li>
+                            <strong>Altura:</strong>
+                            <p>2,11m</p>
+                          </li>
+                          <li>
+                            <strong>Peso:</strong>
+                            <p>129kg</p>
+                          </li>
+                          <li>
+                            <strong>Posição:</strong>
+                            <p>Pivô (C)</p>
+                          </li>
+                          <li>
+                            <strong>Destaques: </strong>
+                            <p>
+                              MVP NBA(21/22)/ MVP das Finais(2023)/ Campeão da
+                              NBA(2023)/ 6x All-Star
+                            </p>
+                          </li>
+                        </ul>
+                        <div className={S.BoxNbaCard}>
+                          <img className={S.nbaCard} src={Nba} alt="" />
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                <div className={S.container}>
-                  <div className={S.flip}>
-                    <div className={S.frente}>
-                      <img
-                        className={S.PlayerFlip}
-                        src={Shai}
-                        alt="Imagem-do-Shai-Gilgeous-Alexander"
-                      />
-                    </div>
-                    <div className={S.tras}>
-                      <div className={S.boxLogo}>
+                  <div className={S.container}>
+                    <div className={S.flip}>
+                      <div className={S.frente}>
                         <img
-                          className={S.Logo}
-                          src={logoOkc}
-                          alt="Imagem-do-Escudo-Oklahoma-City-Thunder"
+                          className={S.PlayerFlip}
+                          src={Shai}
+                          alt="Imagem-do-Shai-Gilgeous-Alexander"
                         />
                       </div>
-                      <p className={S.boxNome}>Shai Gilgeous-Alexander</p>
-                      <ul className={S.geralAtleta}>
-                        <li>
-                          <strong>Idade: </strong> <p>25 anos (12/07/98)</p>
-                        </li>
-                        <li>
-                          <strong>Altura:</strong>
-                          <p>1,98m</p>
-                        </li>
-                        <li>
-                          <strong>Peso:</strong>
-                          <p>88kg</p>
-                        </li>
-                        <li>
-                          <strong>Posição:</strong>
-                          <p>Armador (PG)</p>
-                        </li>
-                        <li>
-                          <strong>Destaques: </strong>
-                          <p>All-Star 2024</p>
-                        </li>
-                      </ul>
-                      <div className={S.BoxNbaCard}>
-                        <img className={S.nbaCard} src={Nba} alt="" />
+                      <div className={S.tras}>
+                        <div className={S.boxLogo}>
+                          <img
+                            className={S.Logo}
+                            src={logoOkc}
+                            alt="Imagem-do-Escudo-Oklahoma-City-Thunder"
+                          />
+                        </div>
+                        <p className={S.boxNome}>Shai Gilgeous-Alexander</p>
+                        <ul className={S.geralAtleta}>
+                          <li>
+                            <strong>Idade: </strong> <p>25 anos (12/07/98)</p>
+                          </li>
+                          <li>
+                            <strong>Altura:</strong>
+                            <p>1,98m</p>
+                          </li>
+                          <li>
+                            <strong>Peso:</strong>
+                            <p>88kg</p>
+                          </li>
+                          <li>
+                            <strong>Posição:</strong>
+                            <p>Armador (PG)</p>
+                          </li>
+                          <li>
+                            <strong>Destaques: </strong>
+                            <p>All-Star 2024</p>
+                          </li>
+                        </ul>
+                        <div className={S.BoxNbaCard}>
+                          <img className={S.nbaCard} src={Nba} alt="" />
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                <div className={S.container}>
-                  <div className={S.flip}>
-                    <div className={S.frente}>
-                      <img
-                        className={S.PlayerFlip}
-                        src={Victor}
-                        alt="Imagem-do-Victor-Wembanyama"
-                      />
-                    </div>
-                    <div className={S.tras}>
-                      <div className={S.boxLogo}>
+                  <div className={S.container}>
+                    <div className={S.flip}>
+                      <div className={S.frente}>
                         <img
-                          className={S.Logo}
-                          src={logoSpurs}
-                          alt="Imagem-do-Escudo-San-Antonio-Spurs"
+                          className={S.PlayerFlip}
+                          src={Victor}
+                          alt="Imagem-do-Victor-Wembanyama"
                         />
                       </div>
-                      <p className={S.boxNome}>Victor Wembanyama</p>
-                      <ul className={S.geralAtleta}>
-                        <li>
-                          <strong>Idade:</strong> <p>20 anos (04/01/04)</p>
-                        </li>
-                        <li>
-                          <strong>Altura:</strong>
-                          <p>2,24m</p>
-                        </li>
-                        <li>
-                          <strong>Peso:</strong>
-                          <p> 95kg</p>
-                        </li>
-                        <li>
-                          <strong>Posição:</strong>
-                          <p>Pivô/ Ala-Pivô (C/PF)</p>
-                        </li>
-                        <li>
-                          <strong>Destaques:</strong>
-                          <p>Provável Rookie 2024</p>
-                        </li>
-                      </ul>
-                      <div className={S.BoxNbaCard}>
-                        <img className={S.nbaCard} src={Nba} alt="" />
+                      <div className={S.tras}>
+                        <div className={S.boxLogo}>
+                          <img
+                            className={S.Logo}
+                            src={logoSpurs}
+                            alt="Imagem-do-Escudo-San-Antonio-Spurs"
+                          />
+                        </div>
+                        <p className={S.boxNome}>Victor Wembanyama</p>
+                        <ul className={S.geralAtleta}>
+                          <li>
+                            <strong>Idade:</strong> <p>20 anos (04/01/04)</p>
+                          </li>
+                          <li>
+                            <strong>Altura:</strong>
+                            <p>2,24m</p>
+                          </li>
+                          <li>
+                            <strong>Peso:</strong>
+                            <p> 95kg</p>
+                          </li>
+                          <li>
+                            <strong>Posição:</strong>
+                            <p>Pivô/ Ala-Pivô (C/PF)</p>
+                          </li>
+                          <li>
+                            <strong>Destaques:</strong>
+                            <p>Provável Rookie 2024</p>
+                          </li>
+                        </ul>
+                        <div className={S.BoxNbaCard}>
+                          <img className={S.nbaCard} src={Nba} alt="" />
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-              </li>
-            </ul>
+                </li>
+              </ul>
 
-            {/* Descrição sobre a parte de Atletas em destaques */}
-            <div className={S.boxDescri}>
-              <p>
-                A seção <strong>Destaques da Temporada</strong> destaca os
-                jogadores que mais vêm se sobressaindo na NBA 2024–2025. Com
-                estatísticas impressionantes e atuações decisivas, atletas como
-                Nikola Jokić, Shai Gilgeous-Alexander e Victor Wembanyama
-                mostram por que estão entre os principais nomes da liga.
-              </p>
-            </div>
-            {/* botao que transfere para a pagina NBA */}
-            <div className={S.boxBtn}>
-              <div>
-                <Link to="/Times" className={S.botaoLink} ref={btnRef2}>
-                  <span>NBA</span>
-                </Link>
+              {/* Descrição sobre a parte de Atletas em destaques */}
+              <div className={S.boxDescri}>
+                <p>
+                  A seção <strong>Destaques da Temporada</strong> destaca os
+                  jogadores que mais vêm se sobressaindo na NBA 2024–2025. Com
+                  estatísticas impressionantes e atuações decisivas, atletas
+                  como Nikola Jokić, Shai Gilgeous-Alexander e Victor Wembanyama
+                  mostram por que estão entre os principais nomes da liga.
+                </p>
+              </div>
+              {/* botao que transfere para a pagina NBA */}
+              <div className={S.boxBtn}>
+                <div>
+                  <Link to="/Times" className={S.botaoLink} ref={btnRef2}>
+                    <span>NBA</span>
+                  </Link>
+                </div>
               </div>
             </div>
-          </div>
-        </section>
+          </section>
+        </div>
       </div>
     </>
   );

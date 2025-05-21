@@ -52,7 +52,8 @@ p {
 
 // ESTILO DA HOME EM GERAL
 .Home {
-  height: 1000px;
+  height: 100%;
+  width: 100%;
   margin: 9.6rem auto;
 }
 
@@ -84,8 +85,8 @@ p {
 
 // ESTILO HERO
 .caixaPincipal {
-  height: 80vh;
-  width: 60vw;
+  height: 750px;
+  width: 1000px;
   padding-left: 50px;
 }
 
@@ -109,7 +110,8 @@ p {
 
 // TITULO DOS CARDS
 .boxInfo {
-  height: 100px;
+  height: 100%;
+
   width: 100%;
 
   align-items: center;

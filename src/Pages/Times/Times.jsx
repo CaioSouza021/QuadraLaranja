@@ -1,5 +1,34 @@
 import S from "./Times.module.scss";
-import BG from "../../assets/img/BGiverson.avif";
+import Celtics from "../../assets/img/LogoTimes/BostonLogo.png";
+import Knicks from "../../assets/img/LogoTimes/KnicksLogo.png";
+import Nets from "../../assets/img/LogoTimes/NetsLogo.png";
+import Philadelphia from "../../assets/img/LogoTimes/PhiladelphiaLogo.png";
+import Raptors from "../../assets/img/LogoTimes/RaptorsLogo.png";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+// import algo from "../../assets/img/LogoTimes/";
+import Denver from "../../assets/img/LogoTimes/denverLogo.png";
+import Thunder from "../../assets/img/LogoTimes/okcLogo.png";
+import Spurs from "../../assets/img/LogoTimes/spursLogo.png";
 
 export default function Times() {
   return (
@@ -20,96 +49,138 @@ export default function Times() {
           <h2>
             Conferência <span>Leste</span>
           </h2>
-          <section className={S.LocalLeste}>
-            <div className={S.tituloLeste}>
+          <section className={S.Local}>
+            <div className={S.TituloRegiao}>
               <h3>Divisão Atlântica</h3>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Boston Celtics</h4>
-              <p>Celtics</p>
+            <div className={S.times}>
+              <img src={Celtics} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Boston Celtics</h4>
+                <p>Celtics</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Brooklyn Nets</h4>
-              <p>Nets</p>
+
+            <div className={S.times}>
+              <img src={Nets} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Brooklyn Nets</h4>
+                <p>Nets</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>New York Knicks</h4>
-              <p>Knicks</p>
+
+            <div className={S.times}>
+              <img src={Knicks} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>New York Knicks</h4>
+                <p>Knicks</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Philadelphia 76ers</h4>
-              <p>76ers ou Sixers</p>
+
+            <div className={S.times}>
+              <img src={Philadelphia} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Philadelphia 76ers</h4>
+                <p>76ers ou Sixers</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Toronto Raptors</h4>
-              <p>Raptors</p>
+
+            <div className={S.times}>
+              <img src={Raptors} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Toronto Raptors</h4>
+                <p>Raptors</p>
+              </div>
             </div>
           </section>
 
-          <section className={S.LocalLeste}>
-            <div className={S.tituloLeste}>
+          <section className={S.Local}>
+            <div className={S.TituloRegiao}>
               <h3>Divisão Central</h3>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Chicago Bulls</h4>
-              <p>Bulls</p>
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Chicago Bulls</h4>
+                <p>Bulls</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Cleveland Cavaliers</h4>
-              <p>Cavaliers ou Cavs</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Cleveland Cavaliers</h4>
+                <p>Cavaliers ou Cavs</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Detroit Pitons</h4>
-              <p>Pistons</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Detroit Pistons</h4>
+                <p>Pistons</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Indiana Pacers</h4>
-              <p>Pacers</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Indiana Pacers</h4>
+                <p>Pacers</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Milwaukee Bucks</h4>
-              <p>Bucks</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Milwaukee Bucks</h4>
+                <p>Bucks</p>
+              </div>
             </div>
           </section>
 
-          <section className={S.LocalLeste}>
-            <div className={S.tituloLeste}>
+          <section className={S.Local}>
+            <div className={S.TituloRegiao}>
               <h3>Divisão Sudeste</h3>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Atlanta Hawks</h4>
-              <p>Hawks</p>
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Atlanta Hawks</h4>
+                <p>Hawks</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Charlotte Hornets</h4>
-              <p>Hornets</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Charlotte Hornets</h4>
+                <p>Hornets</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Miami Heat</h4>
-              <p>Heat</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Miami Heat</h4>
+                <p>Heat</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Orlando Magic</h4>
-              <p>Magic</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Orlando Magic</h4>
+                <p>Magic</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Washington Wizards</h4>
-              <p>Wizards</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Washington Wizards</h4>
+                <p>Wizards</p>
+              </div>
             </div>
           </section>
         </section>
@@ -119,96 +190,138 @@ export default function Times() {
           <h2>
             Conferência <span>Oeste</span>
           </h2>
-          <section className={S.LocalLeste}>
-            <div className={S.tituloLeste}>
+          <section className={S.Local}>
+            <div className={S.TituloRegiao}>
               <h3>Divisão Noroeste</h3>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Denver Nuggets</h4>
-              <p>Nuggets</p>
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Denver Nuggets</h4>
+                <p>Nuggets</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Minnesota Timberwolves</h4>
-              <p>Timberwolves ou Wolves</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Minnesota Timberwolves</h4>
+                <p>Timberwolves ou Wolves</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Oklahoma City Thunder</h4>
-              <p>Thunder</p>
+
+            <div className={S.times}>
+              <img src={Thunder} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Oklahoma City Thunder</h4>
+                <p>Thunder</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Portland Trail Blazers</h4>
-              <p>Trail Blazers ou Blazers</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Portland Trail Blazers</h4>
+                <p>Trail Blazers ou Blazers</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Utah Jazz</h4>
-              <p>Jazz</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Utah Jazz</h4>
+                <p>Jazz</p>
+              </div>
             </div>
           </section>
 
-          <section className={S.LocalLeste}>
-            <div className={S.tituloLeste}>
+          <section className={S.Local}>
+            <div className={S.TituloRegiao}>
               <h3>Divisão Pacífico</h3>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Golden State Warriors</h4>
-              <p>Warriors</p>
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Golden State Warriors</h4>
+                <p>Warriors</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Los Angeles Clippers</h4>
-              <p>Clippers</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Los Angeles Clippers</h4>
+                <p>Clippers</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Los Angeles Lakers</h4>
-              <p>Lakers</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Los Angeles Lakers</h4>
+                <p>Lakers</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Phoenix Suns</h4>
-              <p>Suns</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Phoenix Suns</h4>
+                <p>Suns</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Sacramento Kings</h4>
-              <p>Kings</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Sacramento Kings</h4>
+                <p>Kings</p>
+              </div>
             </div>
           </section>
 
-          <section className={S.LocalLeste}>
-            <div className={S.tituloLeste}>
+          <section className={S.Local}>
+            <div className={S.TituloRegiao}>
               <h3>Divisão Sudoeste</h3>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Dallas Mavericks</h4>
-              <p>Mavs ou Mavericks</p>
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Dallas Mavericks</h4>
+                <p>Mavericks ou Mavs</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Houston Rockets</h4>
-              <p>Rockets</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Houston Rockets</h4>
+                <p>Rockets</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>Memphis Grizzlies</h4>
-              <p>Grizzlies</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>Memphis Grizzlies</h4>
+                <p>Grizzlies</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>New Orleans Pelicans</h4>
-              <p>Pelicans ou Pels</p>
+
+            <div className={S.times}>
+              <img src={Denver} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>New Orleans Pelicans</h4>
+                <p>Pelicans ou Pels</p>
+              </div>
             </div>
-            <div className={S.timesLeste}>
-              <img src="" alt="" />
-              <h4>San Antonio Spurs</h4>
-              <p>Spurs</p>
+
+            <div className={S.times}>
+              <img src={Spurs} alt="" />
+              <div className={S.NomeDosTimes}>
+                <h4>San Antonio Spurs</h4>
+                <p>Spurs</p>
+              </div>
             </div>
           </section>
         </section>

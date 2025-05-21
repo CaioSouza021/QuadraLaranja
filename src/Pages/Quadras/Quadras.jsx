@@ -1,4 +1,5 @@
 import S from "./Quadras.module.scss";
+import Footer from "../../components/Footer/Footer";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import Knicks from "../../assets/img/QuadraKnicks.png";
 import Philadelphia from "../../assets/img/Arenas/PhiladelphiaArena.webp";
@@ -34,7 +35,7 @@ import Memphis from "../../assets/img/Arenas/MemphisArena.webp";
 export default function Quadras() {
   return (
     <>
-      <main>
+      <main className={S.MainQuadras}>
         <div className={S.containerQuadra}>
           <section className={S.BoxQuadra}>
             <div className={S.HeroSection}>

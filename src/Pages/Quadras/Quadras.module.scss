@@ -3,10 +3,6 @@ main {
   height: 100%;
 }
 
-footer {
-  display: block;
-}
-
 .containerQuadra .BoxQuadra {
   height: 940px;
 }
@@ -35,7 +31,7 @@ footer {
   flex-direction: column;
 }
 .HeroSection .overlay h2,
-p {
+.HeroSection .overlay p {
   width: 70vw;
 }
 

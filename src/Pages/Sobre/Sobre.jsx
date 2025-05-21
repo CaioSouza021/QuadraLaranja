@@ -46,7 +46,6 @@ export default function Sobre() {
           {images.map((img, i) => (
             <div key={i} className={S.CarrosselBox}>
               <img className={S.imgDesktop} src={img} alt={`Imagem ${i + 1}`} />
-              <p>olhaol</p>
             </div>
           ))}
         </div>
