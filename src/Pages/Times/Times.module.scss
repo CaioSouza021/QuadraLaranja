@@ -75,7 +75,7 @@
 .Conferencia .times {
   width: 280px;
   height: 90px;
-  padding-left: 3px;
+  padding-left: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -87,7 +87,7 @@
 
 .Conferencia .times .NomeDosTimes {
   width: 100%;
-  text-align: center;
+  padding-left: 8px;
 }
 
 .Conferencia .times h4 {
@@ -101,5 +101,5 @@
 
 .Conferencia .Local .times img {
   height: 45px;
-  width: 65px;
+  width: 60px;
 }
