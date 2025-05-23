@@ -325,6 +325,24 @@ export default function Times() {
             </div>
           </section>
         </section>
+
+        <section className={S.TextAtletasNBA}>
+          <h2>
+            <span>Principais</span> Atletas de Cada Elenco
+          </h2>
+        </section>
+
+        <section className={S.AtletasNBA}>
+          <section>
+            <div>
+              <img src="" alt="" />
+            </div>
+            <div>
+              <h4></h4>
+              <p></p>
+            </div>
+          </section>
+        </section>
       </main>
     </>
   );
