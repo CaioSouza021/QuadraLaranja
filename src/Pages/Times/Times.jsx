@@ -482,7 +482,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Celtics} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -509,7 +509,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Suns} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -536,7 +536,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Warriors} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -563,7 +563,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Philadelphia} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -590,7 +590,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Spurs} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -644,7 +644,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Pistons} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -671,7 +671,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Indiana} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -698,7 +698,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Memphis} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -725,7 +725,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Suns} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -752,7 +752,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Warriors} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -779,7 +779,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Philadelphia} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -806,7 +806,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Knicks} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -833,7 +833,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Memphis} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -844,7 +844,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> OG Anunoby</span>
+                  <span> Ja Morant</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -860,7 +860,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Knicks} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -887,7 +887,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Bucks} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -914,7 +914,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Dallas} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -941,7 +941,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Cavs} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -968,7 +968,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Celtics} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -995,7 +995,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Dallas} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1022,7 +1022,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Magic} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1049,7 +1049,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Cavs} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1076,7 +1076,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Magic} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1103,7 +1103,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Rockets} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1130,7 +1130,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Kings} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1157,7 +1157,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Hawks} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1184,7 +1184,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Cavs} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1211,7 +1211,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Heat} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1238,7 +1238,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Pelicans} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1265,7 +1265,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Spurs} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1292,7 +1292,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Hornets} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1319,7 +1319,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Raptors} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1346,7 +1346,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Denver} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1373,7 +1373,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Knicks} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1400,7 +1400,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Memphis} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1427,7 +1427,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Pelicans} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1454,7 +1454,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Heat} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1481,7 +1481,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Philadelphia} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1508,7 +1508,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Wolves} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1535,7 +1535,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Celtics} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1562,7 +1562,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Rockets} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -1589,7 +1589,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Dallas} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
