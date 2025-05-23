@@ -107,14 +107,106 @@
 
 // INICIO DOS ATLETAS
 
+.TextAtletasNBA {
+  padding-bottom: 20px;
+}
+
 .TextAtletasNBA h2 {
   width: 100%;
-  height: 100px;
+  height: 200px;
   text-align: center;
   font-size: 3.2rem;
-  padding-bottom: 150px;
 }
 
 .TextAtletasNBA h2 span {
+  color: #fe6600;
+}
+
+// Inicio dos Atletas
+.AtletasNBA {
+  width: 100%;
+  height: 100%;
+  flex-wrap: wrap;
+}
+
+.AtletasNBA .CardsAtletasNBA {
+  width: 350px;
+  height: 400px;
+
+  padding-bottom: 90px;
+
+  border: solid 2px #fff;
+  border-radius: 8px;
+
+  background-color: #0a0e23;
+}
+
+// Caixa das IMG
+.AtletasNBA .CardsAtletasNBA .BoxImgAtletaNBA {
+  width: 100%;
+}
+// Caixa Da logo
+.CardsAtletasNBA .LogoAtletasNBA {
+  width: 350px;
+  height: 80px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+// Logo Do Time
+.BoxImgAtletaNBA .LogoAtletasNBA img {
+  height: 65px;
+  width: 90px;
+}
+
+// Caixa do Atleta
+.BoxImgAtletaNBA .BoxAtletaNba {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 160px;
+}
+
+// Imagem do Atleta
+.CardsAtletasNBA .BoxImgAtletaNBA .ImgAtletaNBA {
+  height: 150px;
+  width: 250px;
+  border-radius: 8px;
+  border: solid 2px #2c2f36;
+}
+
+.CardsAtletasNBA .BoxInfoAtletaNBA {
+  border: solid 1px #2c2f36;
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.CardsAtletasNBA .BoxInfoAtletaNBA h4 {
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.CardsAtletasNBA .BoxInfoAtletaNBA h4 span {
+  color: #fe6600;
+}
+
+.BoxTitulosAtletas {
+  height: 100%;
+  width: 100%;
+
+  font-size: 0.7rem;
+
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.BoxTitulosAtletas span {
   color: #fe6600;
 }

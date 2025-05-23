@@ -333,13 +333,37 @@ export default function Times() {
         </section>
 
         <section className={S.AtletasNBA}>
-          <section>
-            <div>
-              <img src="" alt="" />
-            </div>
-            <div>
-              <h4></h4>
-              <p></p>
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Lebron James</span>
+                </h4>
+                <p>Altura: 2,06</p>
+                <p>Peso: 113,4Kg</p>
+                <p>Posição: SF, PG, PF</p>
+                <p>Idade: 40 Anos</p>
+              </div>
+              <div className={S.BoxTitulosAtletas}>
+                <p>
+                  <span>Título</span> da NBA: 4(2012/2013/2016/2020)/{" "}
+                  <span>MVP</span> das Finais: 4/ <span>MVP</span> da Temporada:
+                  4/ <span>All-Star:</span> 20 vezes/ Copa da NBA: 1(2023)/
+                  <span> Maior Pontuador</span> da Historia da NBA +50mil pts/
+                  <span>Único</span> com 30.000+ pts, 10.000+ reb 10.000+
+                  assistências
+                </p>
+              </div>
             </div>
           </section>
         </section>
