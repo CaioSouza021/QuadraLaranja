@@ -158,6 +158,8 @@
 .BoxImgAtletaNBA .LogoAtletasNBA img {
   height: 65px;
   width: 90px;
+  background-color: #fff;
+  border-radius: 8px;
 }
 
 // Caixa do Atleta
@@ -200,11 +202,19 @@
   height: 100%;
   width: 100%;
 
-  font-size: 0.7rem;
-
   padding-top: 5px;
-  padding-left: 10px;
-  padding-right: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  font-size: 0.7rem;
+}
+
+.BoxTitulosAtletas p {
+  width: 95%;
+  height: 100%;
 }
 
 .BoxTitulosAtletas span {

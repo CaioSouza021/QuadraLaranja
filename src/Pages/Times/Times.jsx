@@ -341,7 +341,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.rollingstone.com/wp-content/uploads/2023/02/LeBron-James-Breaks-NBA-Scoring-Record.jpg"
                   alt=""
                 />
               </div>
@@ -349,8 +349,8 @@ export default function Times() {
                 <h4>
                   <span> Lebron James</span>
                 </h4>
-                <p>Altura: 2,06</p>
-                <p>Peso: 113,4Kg</p>
+                <p>Altura: 2,06 m</p>
+                <p>Peso: 113,4 Kg</p>
                 <p>Posição: SF, PG, PF</p>
                 <p>Idade: 40 Anos</p>
               </div>
@@ -370,7 +370,92 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Denver} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.denverpost.com/wp-content/uploads/2023/01/TDP-L-NUGGETS-CLIPPERS_AAO9421xx.jpg?w=660"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Nikola Jokić</span>
+                </h4>
+                <p>Altura: 2,11m</p>
+                <p>Peso: 129Kg</p>
+                <p>Posição: C</p>
+                <p>Idade: 30 Anos</p>
+              </div>
+              <div className={S.BoxTitulosAtletas}>
+                <p>
+                  <span>Título</span> da NBA: 1(2023)/
+                  <span> MVP</span> das Finais: 2/ <span>MVP</span> da
+                  Temporada: 2/ <span>All-Star: </span>6 vezes
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Thunder} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://hoopshype.com/wp-content/uploads/sites/92/2022/09/i_c8_a9_96_shai-gilgeous-alexander.png?w=1200"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Shai Gilgeous-Alexander</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Bucks} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Giannis Antetokounmpo </span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Wolves} alt="" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -381,7 +466,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Anthony Edwards</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -408,7 +493,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Jayson Tatum </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -435,7 +520,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Kevin Durant </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -462,7 +547,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span>Stephen Curry </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -489,7 +574,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Joel Embiid</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -516,7 +601,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Victor Wembanyama </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -543,7 +628,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Luka Dončić </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -570,7 +655,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Cade Cunningham </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -597,7 +682,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Tyrese Haliburton </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -624,7 +709,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Jaren Jackson Jr. </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -651,7 +736,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Devin Booker </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -678,7 +763,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Jimmy Butler </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -705,7 +790,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Paul George </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -732,7 +817,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Karl-Anthony Towns </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -759,7 +844,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> OG Anunoby</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -786,7 +871,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Jalen Brunson </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -813,7 +898,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Damian Lillard </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -840,7 +925,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Anthony Davis</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -867,7 +952,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Donovan Mitchell </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -894,7 +979,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Jaylen Brown </span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -921,7 +1006,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Kyrie Irving</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -948,7 +1033,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Paolo Banchero</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -975,7 +1060,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Evan Mobley</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1002,7 +1087,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Franz Wagner</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1029,7 +1114,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Alperen Şengün</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1056,7 +1141,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Domantas Sabonis</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1083,7 +1168,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Trae Young</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1110,7 +1195,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Darius Garland</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1137,7 +1222,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Bam Adebayo</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1164,7 +1249,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Zion Williamson</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1191,7 +1276,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> De'Aaron Fox</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1218,7 +1303,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> LaMelo Ball</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1245,7 +1330,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Brandon Ingram</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1272,7 +1357,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Jamal Murray</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1299,7 +1384,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Mikal Bridges</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1326,7 +1411,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Desmond Bane</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1353,7 +1438,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> CJ McCollum</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1380,7 +1465,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Andrew Wiggins</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1407,7 +1492,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Tyrese Maxey</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1434,7 +1519,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Julius Randle</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1461,7 +1546,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span> Kristaps Porziņģis</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1488,7 +1573,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
+                  <span>Fred VanVleet</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
@@ -1515,61 +1600,7 @@ export default function Times() {
               </div>
               <div className={S.BoxInfoAtletaNBA}>
                 <h4>
-                  <span> Insira o nome</span>
-                </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
-              </div>
-              <div>
-                <p>?</p>
-              </div>
-            </div>
-          </section>
-
-          <section className={S.CardsAtletasNBA}>
-            <div className={S.BoxImgAtletaNBA}>
-              <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
-              </div>
-              <div className={S.BoxAtletaNba}>
-                <img
-                  className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
-                  alt=""
-                />
-              </div>
-              <div className={S.BoxInfoAtletaNBA}>
-                <h4>
-                  <span> Insira o nome</span>
-                </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
-              </div>
-              <div>
-                <p>?</p>
-              </div>
-            </div>
-          </section>
-
-          <section className={S.CardsAtletasNBA}>
-            <div className={S.BoxImgAtletaNBA}>
-              <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
-              </div>
-              <div className={S.BoxAtletaNba}>
-                <img
-                  className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
-                  alt=""
-                />
-              </div>
-              <div className={S.BoxInfoAtletaNBA}>
-                <h4>
-                  <span> Insira o nome</span>
+                  <span>Klay Thompson</span>
                 </h4>
                 <p>Altura: ?</p>
                 <p>Peso: ?</p>
