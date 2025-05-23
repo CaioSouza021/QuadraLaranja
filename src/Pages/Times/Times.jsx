@@ -14,17 +14,18 @@ import Indiana from "../../assets/img/LogoTimes/indianaLogo.png";
 import Magic from "../../assets/img/LogoTimes/MagicLogo.webp";
 import Pistons from "../../assets/img/LogoTimes/PistonsLogo.png";
 import Wizards from "../../assets/img/LogoTimes/WizardsLogo.png";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
-// import  from "../../assets/img/LogoTimes/";
+import Blazers from "../../assets/img/LogoTimes/BlazersLogo.png";
+import Clippers from "../../assets/img/LogoTimes/ClippersLogo.png";
+import Dallas from "../../assets/img/LogoTimes/DallasLogo.png";
+import Jazz from "../../assets/img/LogoTimes/JazzLogo.png";
+import Kings from "../../assets/img/LogoTimes/KingsLogo.png";
+import Lakers from "../../assets/img/LogoTimes/Lakerslogo.png";
+import Memphis from "../../assets/img/LogoTimes/MemphisLogo.png";
+import Pelicans from "../../assets/img/LogoTimes/PelicansLogo.png";
+import Rockets from "../../assets/img/LogoTimes/RocketsLogo.png";
+import Suns from "../../assets/img/LogoTimes/SunsLogo.png";
+import Warriors from "../../assets/img/LogoTimes/WarriorsLogo.png";
+import Wolves from "../../assets/img/LogoTimes/WolvesLogo.webp";
 import Denver from "../../assets/img/LogoTimes/denverLogo.png";
 import Thunder from "../../assets/img/LogoTimes/okcLogo.png";
 import Spurs from "../../assets/img/LogoTimes/spursLogo.png";
@@ -202,7 +203,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Wolves} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Minnesota Timberwolves</h4>
                 <p>Timberwolves ou Wolves</p>
@@ -218,7 +219,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Blazers} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Portland Trail Blazers</h4>
                 <p>Trail Blazers ou Blazers</p>
@@ -226,7 +227,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Jazz} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Utah Jazz</h4>
                 <p>Jazz</p>
@@ -239,7 +240,7 @@ export default function Times() {
               <h3>Divisão Pacífico</h3>
             </div>
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Warriors} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Golden State Warriors</h4>
                 <p>Warriors</p>
@@ -247,7 +248,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Clippers} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Los Angeles Clippers</h4>
                 <p>Clippers</p>
@@ -255,7 +256,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Lakers} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Los Angeles Lakers</h4>
                 <p>Lakers</p>
@@ -263,7 +264,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Suns} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Phoenix Suns</h4>
                 <p>Suns</p>
@@ -271,7 +272,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Kings} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Sacramento Kings</h4>
                 <p>Kings</p>
@@ -284,7 +285,7 @@ export default function Times() {
               <h3>Divisão Sudoeste</h3>
             </div>
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Dallas} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Dallas Mavericks</h4>
                 <p>Mavericks ou Mavs</p>
@@ -292,7 +293,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Rockets} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Houston Rockets</h4>
                 <p>Rockets</p>
@@ -300,7 +301,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Memphis} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>Memphis Grizzlies</h4>
                 <p>Grizzlies</p>
@@ -308,7 +309,7 @@ export default function Times() {
             </div>
 
             <div className={S.times}>
-              <img src={Denver} alt="" />
+              <img src={Pelicans} alt="" />
               <div className={S.NomeDosTimes}>
                 <h4>New Orleans Pelicans</h4>
                 <p>Pelicans ou Pels</p>
