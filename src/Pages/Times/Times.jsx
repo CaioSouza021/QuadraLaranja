@@ -366,6 +366,1221 @@ export default function Times() {
               </div>
             </div>
           </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
+
+          <section className={S.CardsAtletasNBA}>
+            <div className={S.BoxImgAtletaNBA}>
+              <div className={S.LogoAtletasNBA}>
+                <img src={Lakers} alt="" />
+              </div>
+              <div className={S.BoxAtletaNba}>
+                <img
+                  className={S.ImgAtletaNBA}
+                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  alt=""
+                />
+              </div>
+              <div className={S.BoxInfoAtletaNBA}>
+                <h4>
+                  <span> Insira o nome</span>
+                </h4>
+                <p>Altura: ?</p>
+                <p>Peso: ?</p>
+                <p>Posição: ?</p>
+                <p>Idade: ?</p>
+              </div>
+              <div>
+                <p>?</p>
+              </div>
+            </div>
+          </section>
         </section>
       </main>
     </>
