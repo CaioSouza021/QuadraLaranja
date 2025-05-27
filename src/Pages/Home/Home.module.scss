@@ -125,7 +125,7 @@ p {
   text-transform: uppercase;
   font-size: 4rem;
   width: 100%;
-  height: 100%;
+  height: 200px;
 }
 .titulo span {
   color: #fe6600;
@@ -133,9 +133,14 @@ p {
 
 // CAIXA DOS CARDS
 
+.boxInfo {
+  height: 100%;
+  width: 100%;
+}
+
 .boxInfo ul li {
   width: 100%;
-  height: 1700px;
+  height: 1150px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -146,6 +151,7 @@ p {
 
 .boxInfo .container {
   position: relative;
+
   width: 320px;
   height: 500px;
   border-radius: 10px;
@@ -258,12 +264,16 @@ p {
 
 // ESTILO DA DESCRIÇÃO DOS ATLETAS
 .boxInfo .boxDescri {
-  background-color: #00000060;
   width: 100%;
   height: 100%;
+
   text-align: center;
   display: flex;
   justify-content: center;
+
+  margin-top: 100px;
+
+  background-color: #00000060;
 }
 .boxInfo .boxDescri p {
   width: 65vw;
