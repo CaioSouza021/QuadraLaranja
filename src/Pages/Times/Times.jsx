@@ -684,13 +684,16 @@ export default function Times() {
                 <h4>
                   <span> Tyrese Haliburton </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,88 m</p>
+                <p>Peso: 91 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 24</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  Jogador que Mais Evoluiu da NBA (2023–24)/ Prêmio de
+                  Esportividade da NBA (2023–24)
+                </p>
               </div>
             </div>
           </section>
@@ -738,13 +741,16 @@ export default function Times() {
                 <h4>
                   <span> Devin Booker </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,96 m</p>
+                <p>Peso: 93 kg</p>
+                <p>Posição: SG</p>
+                <p>Idade: 28 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  4× NBA All-Star/ All-NBA First Team/ All-NBA Third Team/NBA
+                  All-Rookie First Team/Campeão do Three-Point Contest{" "}
+                </p>
               </div>
             </div>
           </section>
@@ -765,13 +771,17 @@ export default function Times() {
                 <h4>
                   <span> Jimmy Butler </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,01 m</p>
+                <p>Peso: 104 kg</p>
+                <p>Posição: SF</p>
+                <p>Idade: 35 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  6× NBA All-Star/ 5× All-NBA Team/ 5× NBA All-Defensive Team/
+                  NBA Most Improved Player (2015)/ NBA Eastern Conference Finals
+                  MVP (2023)
+                </p>
               </div>
             </div>
           </section>
@@ -792,13 +802,16 @@ export default function Times() {
                 <h4>
                   <span> Paul George </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,03 m</p>
+                <p>Peso: 100 kg</p>
+                <p>Posição: SF/SG</p>
+                <p>Idade: 35 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  8× NBA All-Star/ 6× All-NBA Team/ 4× NBA All-Defensive Team/
+                  NBA Most Improved Player (2013)
+                </p>
               </div>
             </div>
           </section>
@@ -819,13 +832,16 @@ export default function Times() {
                 <h4>
                   <span> Karl-Anthony Towns </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,11 m</p>
+                <p>Peso: 112 kg</p>
+                <p>Posição: C/PF</p>
+                <p>Idade: 29 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  3× NBA All-Star/ 3× All-NBA Third Team/ NBA Rookie of the Year
+                  (2016)/ Campeão do Three-Point Contest
+                </p>
               </div>
             </div>
           </section>
@@ -846,13 +862,16 @@ export default function Times() {
                 <h4>
                   <span> Ja Morant</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,91 m</p>
+                <p>Peso: 79 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 25 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  NBA Rookie of the Year (2020)/ 2× NBA All-Star/ All-NBA Second
+                  Team
+                </p>
               </div>
             </div>
           </section>
@@ -873,13 +892,13 @@ export default function Times() {
                 <h4>
                   <span> Jalen Brunson </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,88 m </p>
+                <p>Peso: 86 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 28 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>2× All-NBA Second Team/ NBA Clutch Player of the Year</p>
               </div>
             </div>
           </section>
@@ -900,13 +919,18 @@ export default function Times() {
                 <h4>
                   <span> Damian Lillard </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,88 m </p>
+                <p>Peso: 88 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 34 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  Campeão da NBA Cup (2024)/ 9× NBA All-Star/ NBA All-Star Game
+                  MVP/ All-NBA First Team/ 4× All-NBA Second Team/ 2× All-NBA
+                  Third Team/ NBA Rookie of the Year (2013)/ NBA All-Rookie
+                  First Team/ 2× Campeão Three-Point Contest
+                </p>
               </div>
             </div>
           </section>
@@ -927,13 +951,17 @@ export default function Times() {
                 <h4>
                   <span> Anthony Davis</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,08 m</p>
+                <p>Peso: 114 kg</p>
+                <p>Posição: C/PF</p>
+                <p>Idade: 32 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  Campeão da NBA (2020)/ 10× NBA All-Star/ NBA All-Star Game MVP
+                  (2017)/ 4× All-NBA First Team/ 5× NBA All-Defensive Team/ 3×
+                  Líder em bloqueios da NBA/ NBA All-Rookie First Team
+                </p>
               </div>
             </div>
           </section>
@@ -954,13 +982,16 @@ export default function Times() {
                 <h4>
                   <span> Donovan Mitchell </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,91 m</p>
+                <p>Peso: 97 kg</p>
+                <p>Posição: SG/PG</p>
+                <p>Idade: 28 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  6× NBA All-Star/ All-NBA Second Team (2023)/ NBA All-Rookie
+                  First Team (2018)
+                </p>
               </div>
             </div>
           </section>
@@ -981,13 +1012,16 @@ export default function Times() {
                 <h4>
                   <span> Jaylen Brown </span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,98 m</p>
+                <p>Peso: 101 kg</p>
+                <p>Posição: SG/PG</p>
+                <p>Idade: 28 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  Campeão da NBA (2024)/ NBA Finals MVP (2024)/ 4× NBA All-Star/
+                  All-NBA Second Team/ NBA All-Rookie Second Team
+                </p>
               </div>
             </div>
           </section>
@@ -1062,13 +1096,13 @@ export default function Times() {
                 <h4>
                   <span> Evan Mobley</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,13 m</p>
+                <p>Peso: 98 kg</p>
+                <p>Posição: PF/C</p>
+                <p>Idade: 23 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>NBA Defensive Player of the Year (2025)</p>
               </div>
             </div>
           </section>
@@ -1089,13 +1123,13 @@ export default function Times() {
                 <h4>
                   <span> Franz Wagner</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,06 m</p>
+                <p>Peso: 100 kg</p>
+                <p>Posição: SF</p>
+                <p>Idade: 23 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p></p>
               </div>
             </div>
           </section>
@@ -1116,13 +1150,13 @@ export default function Times() {
                 <h4>
                   <span> Alperen Şengün</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,11 m</p>
+                <p>Peso: 106 kg</p>
+                <p>Posição: C</p>
+                <p>Idade: 22 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p></p>
               </div>
             </div>
           </section>
@@ -1143,13 +1177,13 @@ export default function Times() {
                 <h4>
                   <span> Domantas Sabonis</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,11 m</p>
+                <p>Peso: 109 kg </p>
+                <p>Posição: C/PF</p>
+                <p>Idade: 29 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>3× NBA All-Star/ NBA All-NBA Third Team (2023)</p>
               </div>
             </div>
           </section>
@@ -1170,13 +1204,16 @@ export default function Times() {
                 <h4>
                   <span> Trae Young</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,85 m</p>
+                <p>Peso: 74 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 26 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  4× NBA All-Star/ All-NBA Third Team (2022)/ NBA All-Rookie
+                  First Team (2019)
+                </p>
               </div>
             </div>
           </section>
@@ -1197,13 +1234,13 @@ export default function Times() {
                 <h4>
                   <span> Darius Garland</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,85 m</p>
+                <p>Peso: 87 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 25 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>2× NBA All-Star</p>
               </div>
             </div>
           </section>
@@ -1224,13 +1261,16 @@ export default function Times() {
                 <h4>
                   <span> Bam Adebayo</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,06 m</p>
+                <p>Peso: 116 kg</p>
+                <p>Posição: C/PF</p>
+                <p>Idade: 27 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  3× NBA All-Star/ NBA All-Defensive First Team/ 4× NBA
+                  All-Defensive Second Team
+                </p>
               </div>
             </div>
           </section>
@@ -1278,13 +1318,17 @@ export default function Times() {
                 <h4>
                   <span> De'Aaron Fox</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,91 m</p>
+                <p>Peso: 84 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 27 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  NBA All-Star (2023)/ NBA Clutch Player of the Year (2023)/
+                  All-NBA Third Team (2023)/ Líder em roubos de bola na
+                  temporada (2024)
+                </p>
               </div>
             </div>
           </section>
@@ -1305,13 +1349,13 @@ export default function Times() {
                 <h4>
                   <span> LaMelo Ball</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,01 m</p>
+                <p>Peso: 81 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 23 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>NBA Rookie of the Year (2021)/ NBA All-Star (2022)</p>
               </div>
             </div>
           </section>
@@ -1332,13 +1376,13 @@ export default function Times() {
                 <h4>
                   <span> Brandon Ingram</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,03 m</p>
+                <p>Peso: 86 kg</p>
+                <p>Posição: PF</p>
+                <p>Idade: 27 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>NBA Most Improved Player (2020)/ NBA All-Star (2020)</p>
               </div>
             </div>
           </section>
@@ -1359,13 +1403,13 @@ export default function Times() {
                 <h4>
                   <span> Jamal Murray</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,93 m</p>
+                <p>Peso: 98 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 28 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>Campeão da NBA (2023)</p>
               </div>
             </div>
           </section>
@@ -1386,13 +1430,16 @@ export default function Times() {
                 <h4>
                   <span> Mikal Bridges</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,98 m</p>
+                <p>Peso: 95 kg</p>
+                <p>Posição: SF</p>
+                <p>Idade: 28 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  NBA All-Defensive First Team (2022)/ NBA All-Defensive Second
+                  Team (2023)
+                </p>
               </div>
             </div>
           </section>
@@ -1413,13 +1460,13 @@ export default function Times() {
                 <h4>
                   <span> Desmond Bane</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,96 m</p>
+                <p>Peso: 98 kg</p>
+                <p>Posição: SG/SF</p>
+                <p>Idade: 26 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>NBA All-Rookie Second Team (2021)</p>
               </div>
             </div>
           </section>
@@ -1440,13 +1487,13 @@ export default function Times() {
                 <h4>
                   <span> CJ McCollum</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,91 m</p>
+                <p>Peso: 86 kg</p>
+                <p>Posição: SG/PG</p>
+                <p>Idade: 33 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>NBA Most Improved Player (2016)</p>
               </div>
             </div>
           </section>
@@ -1467,13 +1514,16 @@ export default function Times() {
                 <h4>
                   <span> Andrew Wiggins</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,01 m</p>
+                <p>Peso: 89 kg</p>
+                <p>Posição: SF</p>
+                <p>Idade: 30 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  Campeão da NBA (2022)/ NBA All-Star (2022)/ NBA Rookie of the
+                  Year (2015)
+                </p>
               </div>
             </div>
           </section>
@@ -1494,13 +1544,16 @@ export default function Times() {
                 <h4>
                   <span> Tyrese Maxey</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,88 m</p>
+                <p>Peso: 91 kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 24</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  Jogador que Mais Evoluiu da NBA (2023–24)/ Prêmio de
+                  Esportividade da NBA (2023–24)
+                </p>
               </div>
             </div>
           </section>
@@ -1520,13 +1573,16 @@ export default function Times() {
                 <h4>
                   <span> Julius Randle</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,03 m</p>
+                <p>Peso: 113 kg</p>
+                <p>Posição: PF/C</p>
+                <p>Idade: 30 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>?</p>
+                <p>
+                  2× NBA All-Star/ NBA Most Improved Player (2021)/ All-NBA
+                  Second Team (2021)
+                </p>
               </div>
             </div>
           </section>
