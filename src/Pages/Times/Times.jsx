@@ -356,7 +356,7 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  <span>Título</span> da NBA: 4(2012/2013/2016/2020)/{" "}
+                  <span>Título</span> da NBA: 4(2012/2013/2016/2020)/
                   <span>MVP</span> das Finais: 4/ <span>MVP</span> da Temporada:
                   4/ <span>All-Star:</span> 20 vezes/ Copa da NBA: 1(2023)/
                   <span> Maior Pontuador</span> da Historia da NBA +50mil pts/
@@ -419,7 +419,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -446,7 +446,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -473,7 +473,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -500,7 +500,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -527,7 +527,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -554,7 +554,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -581,7 +581,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -608,7 +608,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -622,7 +622,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://media2.ledevoir.com/images_galerie/nwd_1593243_1233986/image.jpg"
+                  src="https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5ed6/live/d4fba1f0-e83b-11ef-a5f2-c764ce18a01f.jpg"
                   alt=""
                 />
               </div>
@@ -635,7 +635,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -662,7 +662,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -689,7 +689,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -716,7 +716,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -743,7 +743,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -770,7 +770,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -797,7 +797,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -824,7 +824,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -851,7 +851,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -878,7 +878,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -905,7 +905,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -932,7 +932,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -959,7 +959,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -986,7 +986,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1013,7 +1013,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1040,7 +1040,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1067,7 +1067,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1094,7 +1094,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1121,7 +1121,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1148,7 +1148,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1175,7 +1175,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1202,7 +1202,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1229,7 +1229,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1256,7 +1256,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1283,7 +1283,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1310,7 +1310,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1337,7 +1337,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1364,7 +1364,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1391,7 +1391,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1418,7 +1418,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1445,7 +1445,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1472,7 +1472,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1499,7 +1499,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1525,7 +1525,7 @@ export default function Times() {
                 <p>Posição: ?</p>
                 <p>Idade: ?</p>
               </div>
-              <div>
+              <div className={S.BoxTitulosAtletas}>
                 <p>?</p>
               </div>
             </div>
@@ -1547,13 +1547,13 @@ export default function Times() {
                 <h4>
                   <span> Kristaps Porziņģis</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 2,21 </p>
+                <p>Peso: 109 kg</p>
+                <p>Posição: PF/C</p>
+                <p>Idade: 29 anos</p>
               </div>
-              <div>
-                <p>?</p>
+              <div className={S.BoxTitulosAtletas}>
+                <p>NBA All-Star (2018)/ NBA All-Rookie First Team (2016)</p>
               </div>
             </div>
           </section>
@@ -1574,13 +1574,13 @@ export default function Times() {
                 <h4>
                   <span>Fred VanVleet</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,85 m</p>
+                <p>Peso: 89kg</p>
+                <p>Posição: PG</p>
+                <p>Idade: 31 anos</p>
               </div>
-              <div>
-                <p>?</p>
+              <div className={S.BoxTitulosAtletas}>
+                <p>Campeão da NBA (2019)</p>
               </div>
             </div>
           </section>
@@ -1601,13 +1601,16 @@ export default function Times() {
                 <h4>
                   <span>Klay Thompson</span>
                 </h4>
-                <p>Altura: ?</p>
-                <p>Peso: ?</p>
-                <p>Posição: ?</p>
-                <p>Idade: ?</p>
+                <p>Altura: 1,98 m</p>
+                <p>Peso: 98 kg</p>
+                <p>Posição: SG</p>
+                <p>Idade: 34 Anos</p>
               </div>
-              <div>
-                <p>?</p>
+              <div className={S.BoxTitulosAtletas}>
+                <p>
+                  Campeão da NBA (2015, 2017, 2018, 2022)/ 5× All-Star da NBA/
+                  2× All-NBA Third Team/ NBA All-Defensive Second Team
+                </p>
               </div>
             </div>
           </section>
