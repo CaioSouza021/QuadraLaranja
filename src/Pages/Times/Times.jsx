@@ -433,7 +433,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png"
+                  src="https://sports.inquirer.net/files/2021/11/063_1352747760-scaled.jpg"
                   alt=""
                 />
               </div>
@@ -811,7 +811,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://cdn1.nbaanalysis.net/uploads/16/2025/01/GettyImages-2191706970-1-1140x755.jpg"
                   alt=""
                 />
               </div>
@@ -838,7 +838,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://wallpapers.com/images/hd/ja-morant-1920-x-1080-background-eib12xt1a4lqef3z.jpg"
                   alt=""
                 />
               </div>
@@ -865,7 +865,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://nypost.com/wp-content/uploads/sites/2/2022/10/Jalen-Brunson-2-1.jpg?quality=75&strip=all"
                   alt=""
                 />
               </div>
@@ -892,7 +892,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.sportszion.com/wp-content/uploads/2024/03/damian_lillard_bucks_ap_wi_1116_23311562887561.webp"
                   alt=""
                 />
               </div>
@@ -919,7 +919,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://sportshub.cbsistatic.com/i/r/2025/02/08/2fd0b8ac-5ad7-4419-a281-1816ec761df6/thumbnail/1200x675/be9b50df2e59d1092ebf806f0c6a9750/anthony-davis-mavericks-g.jpg"
                   alt=""
                 />
               </div>
@@ -946,7 +946,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.si.com/.image/t_share/MTk0ODk4MDg1NDcyNjQyMjEw/de6b9ddd-dd5e-420d-a501-d50d9c25ed45.jpg"
                   alt=""
                 />
               </div>
@@ -973,7 +973,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://cdn.nba.com/manage/2023/01/GettyImages-1455400887-scaled-e1673568422430.jpg"
                   alt=""
                 />
               </div>
@@ -1000,7 +1000,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://assets.dmagstatic.com/wp-content/uploads/2023/03/USATSI_20170027-scaled.jpg"
                   alt=""
                 />
               </div>
@@ -1027,7 +1027,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.rappler.com/tachyon/2023/04/reuters-paolo-banchero-april-26-2023.jpg?resize=1396%2C826&zoom=1"
                   alt=""
                 />
               </div>
@@ -1054,7 +1054,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://e0.365dm.com/21/11/1600x900/skysports-cavaliers-evan-mobley_5578547.jpg?20211205151159"
                   alt=""
                 />
               </div>
@@ -1081,7 +1081,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="http://res.cloudinary.com/ybmedia/image/upload/c_crop,h_1123,w_2000,x_0,y_62/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/4/7/474d8a06fd94314a2409874250e70f7db17dbc43/franz-wagner-proves-magic-two-future-stars.jpg"
                   alt=""
                 />
               </div>
@@ -1108,7 +1108,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.sportscasting.com/wp-content/uploads/2025/01/0x0.webp"
                   alt=""
                 />
               </div>
@@ -1135,7 +1135,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://cdn.i24news.tv/uploads/23/53/7e/df/75/c8/1e/a8/8b/1d/73/84/bc/e6/9a/8e/23537edf75c81ea88b1d7384bce69a8e.jpg?width=1000"
                   alt=""
                 />
               </div>
@@ -1162,7 +1162,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://static.foxnews.com/foxnews.com/content/uploads/2022/12/GettyImages-1245552227.jpg"
                   alt=""
                 />
               </div>
@@ -1189,7 +1189,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://wallpaperaccess.com/full/8486878.jpg"
                   alt=""
                 />
               </div>
@@ -1216,7 +1216,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://wallpapers.com/images/hd/bam-adebayo-slam-dunk-focus-shot-k5wv9m8p60oggjso.jpg"
                   alt=""
                 />
               </div>
@@ -1243,7 +1243,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.casino.org/news/wp-content/uploads/2022/12/ZonDunkPelicansSuns.jpg"
                   alt=""
                 />
               </div>
@@ -1270,7 +1270,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://athlonsports.com/.image/t_share/MjEzMDkwMjcwOTMyMTE3MzQx/deaaron-fox.jpg"
                   alt=""
                 />
               </div>
@@ -1297,7 +1297,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.whittierdailynews.com/wp-content/uploads/2021/03/AP21073181373049.jpg?w=1280"
                   alt=""
                 />
               </div>
@@ -1324,7 +1324,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://athlonsports.com/.image/t_share/MjExNjczMTI5MjkyOTMzMDk2/brandon-ingram.jpg"
                   alt=""
                 />
               </div>
@@ -1351,7 +1351,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.thecoldwire.com/wp-content/uploads/2023/03/Jamal-Murray-scaled.jpg"
                   alt=""
                 />
               </div>
@@ -1378,7 +1378,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://cf-img-a-in.tosshub.com/lingo/stak/images/story/202505/6830ad305fbf8-mikal-bridges-in-the-frame-231522632-16x9.png?size=1600:900"
                   alt=""
                 />
               </div>
@@ -1405,7 +1405,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://cdn.nba.com/manage/2022/02/GettyImages-1362634342-scaled-e1643761978574.jpg"
                   alt=""
                 />
               </div>
@@ -1432,7 +1432,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://a2.espncdn.com/combiner/i?img=/photo/2022/0412/r998808_1296x729_16-9.jpg"
                   alt=""
                 />
               </div>
@@ -1459,7 +1459,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://staticg.sportskeeda.com/editor/2025/02/aac36-17401601786087-1920.jpg"
                   alt=""
                 />
               </div>
@@ -1486,7 +1486,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://cdn.nba.com/teams/uploads/sites/1610612755/2022/10/GettyImages-1244301273.jpg"
                   alt=""
                 />
               </div>
@@ -1513,8 +1513,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
-                  alt=""
+                  src="http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_1123,w_2000,x_0,y_71/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/c/a/ca01d5f773de6cea653f7d3e6738a2d44ee47df9/randle-praises-star-teammates-leadership-win-over.jpg"
                 />
               </div>
               <div className={S.BoxInfoAtletaNBA}>
@@ -1540,7 +1539,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://www.bostonherald.com/wp-content/uploads/2024/03/CELTICSsc012-e1717504653318.jpg?w=1371"
                   alt=""
                 />
               </div>
@@ -1567,7 +1566,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="http://res.cloudinary.com/ybmedia/image/upload/c_crop,h_988,w_1760,x_240,y_105/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/a/d/adeaa65192696bf9ba15b3b87b5fe18130b4ea08/oct-2-2023-houston-tx-usa-houston-rockets-guard.jpg"
                   alt=""
                 />
               </div>
@@ -1594,7 +1593,7 @@ export default function Times() {
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
-                  src="https://www.hdwallpapers.in/download/lebron_james_american_basketball_player-wide.jpg"
+                  src="https://cdn1.nbaanalysis.net/uploads/16/2025/01/GettyImages-2194952978-1140x760.jpg"
                   alt=""
                 />
               </div>
