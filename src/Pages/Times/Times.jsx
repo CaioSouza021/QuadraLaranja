@@ -356,8 +356,10 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  4× Campeão da NBA (2012, 2013, 2016, 2020)/ 4× MVP/ NBA Finals
-                  MVP 4 vezes/ 20× NBA All-Star/
+                  <span>4× Campeão </span> da NBA (2012, 2013, 2016, 2020)/{" "}
+                  <span>4×</span> MVP/ NBA <span>Finals MVP </span>4 vezes/{" "}
+                  <span>20×</span>
+                  NBA All-Star/
                   <span> Maior Pontuador</span> da Historia da NBA /
                   <span>Único</span> com 30.000+ pts, 10.000+ reb 10.000+
                   assistências
@@ -419,7 +421,9 @@ export default function Times() {
                 <p>Idade: 25 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>MVP(2025)/ NBA All-Star (2023)</p>
+                <p>
+                  <span>MVP</span>(2025)/ NBA All-Star (2023)
+                </p>
               </div>
             </div>
           </section>
@@ -447,8 +451,9 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  2× Campeão da NBA (2021, 2022)/ 2×MVP (2019, 2020)/ NBA Finals
-                  MVP (2021)/ NBA Defensive Player of the Year (2020){" "}
+                  <span>2× Campeão</span> da NBA (2021, 2022)/ <span>2×</span>
+                  MVP (2019, 2020)/ <span>Finals MVP</span> (2021)/ NBA
+                  Defensive Player of the Year (2020)
                 </p>
               </div>
             </div>
@@ -504,8 +509,8 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  Campeão da NBA (2024)/ 5× NBA All-Star/ All-NBA First Team
-                  (2022)
+                  <span>Campeão</span> da NBA (2024)/ <span>5× </span>NBA
+                  All-Star/ All-NBA First Team (2022)
                 </p>
               </div>
             </div>
@@ -534,8 +539,9 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  2× Campeão da NBA (2017, 2018)/ 13× NBA All-Star/ 2× NBA
-                  Finals MVP/ NBA Most Valuable Player (MVP) 2014
+                  <span> 2× Campeão</span> da NBA (2017, 2018)/ <span>13×</span>
+                  NBA All-Star/ <span>2×</span> NBA Finals MVP/ <span>MVP</span>{" "}
+                  2014
                 </p>
               </div>
             </div>
@@ -564,8 +570,10 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  4× Campeão da NBA (2015, 2017, 2018, 2022)/ 9× NBA All-Star/
-                  2× NBA Most Valuable Player (MVP) (2015, 2016)/ NBA Finals MVP
+                  <span>4× Campeão</span> da NBA (2015, 2017, 2018, 2022)/
+                  <span>9×</span>
+                  NBA All-Star/ <span>2×</span> MVP (2015, 2016)/ NBA{" "}
+                  <span>Finals MVP</span>
                   (2022)
                 </p>
               </div>
@@ -595,8 +603,9 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  7× NBA All-Star/ MVP (2023)/ NBA Defensive Player of the Year
-                  (2021)/ 4× All-NBA Team (2021)
+                  <span> 7× </span>NBA All-Star/ <span>MVP</span> (2023)/ NBA
+                  Defensive Player of the Year (2021)/ <span>4×</span> All-NBA
+                  Team (2021)
                 </p>
               </div>
             </div>
@@ -632,7 +641,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Lakers} alt="" />
+                <img src={Lakers} alt="Logo do Lakers" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -652,8 +661,8 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  4× NBA All-Star/ All-NBA First Team (2022)/ NBA Rookie of the
-                  Year (2019)
+                  <span>4×</span> NBA All-Star/ All-NBA First Team (2022)/ NBA
+                  Rookie of the Year (2019)
                 </p>
               </div>
             </div>
@@ -749,7 +758,7 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Suns} alt="" />
+                <img src={Suns} alt="Logo Phoenix Suns" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
@@ -769,8 +778,9 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  4× NBA All-Star/ All-NBA First Team/ All-NBA Third Team/NBA
-                  All-Rookie First Team/Campeão do Three-Point Contest{" "}
+                  <span>4×</span> NBA All-Star/ All-NBA First Team/ All-NBA
+                  Third Team/NBA All-Rookie First Team/Campeão do Three-Point
+                  Contest
                 </p>
               </div>
             </div>
@@ -779,13 +789,13 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Warriors} alt="" />
+                <img src={Warriors} alt="Logo Golden State Warriors" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
                   src="https://athlonsports.com/.image/t_share/MjEyOTU2MTcxNTg0MTUzMjE2/usatsi_25425497.jpg"
-                  alt=""
+                  alt="Jimmy Butler"
                 />
               </div>
               <div className={S.BoxInfoAtletaNBA}>
@@ -799,9 +809,10 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  6× NBA All-Star/ 5× All-NBA Team/ 5× NBA All-Defensive Team/
-                  NBA Most Improved Player (2015)/ NBA Eastern Conference Finals
-                  MVP (2023)
+                  <span>6×</span> NBA All-Star/ <span>5×</span> All-NBA Team/
+                  <span> 5×</span>
+                  NBA All-Defensive Team/ NBA Most Improved Player (2015)/ NBA
+                  Eastern <span>Conference Finals MVP</span> (2023)
                 </p>
               </div>
             </div>
@@ -810,13 +821,13 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Philadelphia} alt="" />
+                <img src={Philadelphia} alt="Logo Philadelphia" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
                   src="https://jumperbrasil.com.br/wp-content/uploads/2024/08/Paul-George-1.webp"
-                  alt=""
+                  alt="Paul George"
                 />
               </div>
               <div className={S.BoxInfoAtletaNBA}>
@@ -830,8 +841,9 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  8× NBA All-Star/ 6× All-NBA Team/ 4× NBA All-Defensive Team/
-                  NBA Most Improved Player (2013)
+                  <span> 8×</span> NBA All-Star/ <span>6×</span> All-NBA Team/{" "}
+                  <span>4×</span> NBA All-Defensive Team/ NBA Most Improved
+                  Player (2013)
                 </p>
               </div>
             </div>
@@ -860,8 +872,8 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  3× NBA All-Star/ 3× All-NBA Third Team/ NBA Rookie of the Year
-                  (2016)
+                  <span>3×</span> NBA All-Star/ <span>3×</span> All-NBA Third
+                  Team/ NBA Rookie of the Year (2016)
                 </p>
               </div>
             </div>
@@ -870,13 +882,13 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Memphis} alt="" />
+                <img src={Memphis} alt="Memphis Grizzlies" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
                   src="https://wallpapers.com/images/hd/ja-morant-1920-x-1080-background-eib12xt1a4lqef3z.jpg"
-                  alt=""
+                  alt="Ja Morant"
                 />
               </div>
               <div className={S.BoxInfoAtletaNBA}>
@@ -890,8 +902,8 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  NBA Rookie of the Year (2020)/ 2× NBA All-Star/ All-NBA Second
-                  Team
+                  NBA Rookie of the Year (2020)/ <span>2×</span> NBA All-Star/
+                  All-NBA Second Team
                 </p>
               </div>
             </div>
@@ -900,13 +912,13 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Knicks} alt="" />
+                <img src={Knicks} alt="Logo New York Knicks" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
                   src="https://nypost.com/wp-content/uploads/sites/2/2022/10/Jalen-Brunson-2-1.jpg?quality=75&strip=all"
-                  alt=""
+                  alt="Jalen Brunson"
                 />
               </div>
               <div className={S.BoxInfoAtletaNBA}>
@@ -919,7 +931,10 @@ export default function Times() {
                 <p>Idade: 28 anos</p>
               </div>
               <div className={S.BoxTitulosAtletas}>
-                <p>2× All-NBA Second Team/ NBA Clutch Player of the Year</p>
+                <p>
+                  <span>2×</span> All-NBA Second Team/ NBA Clutch Player of the
+                  Year
+                </p>
               </div>
             </div>
           </section>
@@ -927,13 +942,13 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Bucks} alt="" />
+                <img src={Bucks} alt="Milwaukee Bucks" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
                   src="https://www.sportszion.com/wp-content/uploads/2024/03/damian_lillard_bucks_ap_wi_1116_23311562887561.webp"
-                  alt=""
+                  alt="Damian Lillard"
                 />
               </div>
               <div className={S.BoxInfoAtletaNBA}>
@@ -947,10 +962,12 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  Campeão da NBA Cup (2024)/ 9× NBA All-Star/ NBA All-Star Game
-                  MVP/ All-NBA First Team/ 4× All-NBA Second Team/ 2× All-NBA
-                  Third Team/ NBA Rookie of the Year (2013)/ NBA All-Rookie
-                  First Team/ 2× Campeão Three-Point Contest
+                  <span>Campeão</span> da NBA Cup (2024)/ <span>9×</span> NBA
+                  All-Star/ NBA All-Star Game MVP/ All-NBA First Team/{" "}
+                  <span>4×</span>
+                  All-NBA Second Team/ <span>2×</span> All-NBA Third Team/ NBA
+                  Rookie of the Year (2013)/ NBA All-Rookie First Team/{" "}
+                  <span>2×</span> Campeão Three-Point Contest
                 </p>
               </div>
             </div>
@@ -959,13 +976,13 @@ export default function Times() {
           <section className={S.CardsAtletasNBA}>
             <div className={S.BoxImgAtletaNBA}>
               <div className={S.LogoAtletasNBA}>
-                <img src={Dallas} alt="" />
+                <img src={Dallas} alt="Logo Dallas Mavericks" />
               </div>
               <div className={S.BoxAtletaNba}>
                 <img
                   className={S.ImgAtletaNBA}
                   src="https://sportshub.cbsistatic.com/i/r/2025/02/08/2fd0b8ac-5ad7-4419-a281-1816ec761df6/thumbnail/1200x675/be9b50df2e59d1092ebf806f0c6a9750/anthony-davis-mavericks-g.jpg"
-                  alt=""
+                  alt="Anthony Davis"
                 />
               </div>
               <div className={S.BoxInfoAtletaNBA}>
@@ -979,9 +996,11 @@ export default function Times() {
               </div>
               <div className={S.BoxTitulosAtletas}>
                 <p>
-                  Campeão da NBA (2020)/ 10× NBA All-Star/ NBA All-Star Game MVP
-                  (2017)/ 4× All-NBA First Team/ 5× NBA All-Defensive Team/ 3×
-                  Líder em bloqueios da NBA/ NBA All-Rookie First Team
+                  <span>Campeão</span> da NBA (2020)/ <span>10×</span> NBA
+                  All-Star/ NBA All-Star Game MVP (2017)/ <span>4×</span>{" "}
+                  All-NBA First Team/ <span>5×</span> NBA All-Defensive Team/{" "}
+                  <span>3× Líder</span> em bloqueios da NBA/ NBA All-Rookie
+                  First Team
                 </p>
               </div>
             </div>
